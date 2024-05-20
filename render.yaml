@@ -1,0 +1,4 @@
+staticSites:
+  - name: my-website
+    buildCommand: echo 'No build step required'
+    publishDir: /
