@@ -64,59 +64,56 @@ const LARGE_GAMES = new Set([
 export async function onRequest({ request, env, next }) {
   const url = new URL(request.url);
   const path = url.pathname;
-  
-  // Debug log the request
-  console.log('Request URL:', url.toString());
-  console.log('Request path:', path);
 
   // Check if this is a request for a game file
   if (path.startsWith('/semag/')) {
     // Extract the game directory name
     const gameDir = path.split('/')[2];
-    console.log('Game directory:', gameDir);
-    console.log('Is large game:', LARGE_GAMES.has(gameDir));
 
-    // If this is a large game, serve from R2
+    // If this is a large game, try to serve from R2
     if (LARGE_GAMES.has(gameDir)) {
       try {
         // Remove leading slash for R2 key
         const r2Key = path.substring(1);
-        console.log('Fetching from R2:', r2Key);
 
         // Check if the bucket exists
         if (!env.GAMES) {
-          console.error('R2 bucket not found in environment');
-          return next(); // Fall back to Pages if bucket isn't configured
+          console.error('R2 bucket not found');
+          return new Response('R2 bucket not configured', { status: 500 });
         }
 
         const obj = await env.GAMES.get(r2Key);
-        console.log('R2 response:', obj ? 'Found' : 'Not found');
 
         if (obj === null) {
-          console.log('File not found in R2:', r2Key);
-          return next(); // Try serving from Pages if not in R2
+          // Return 404 instead of falling back to Pages
+          return new Response('Game file not found in R2', { 
+            status: 404,
+            headers: {
+              'content-type': 'text/plain'
+            }
+          });
         }
 
         // Get content type from object metadata or infer from extension
         const contentType = obj.httpMetadata?.contentType || getContentType(path);
-        console.log('Serving with content-type:', contentType);
 
         // Return the file from R2 with proper headers
         return new Response(obj.body, {
           headers: {
             'content-type': contentType,
             'cache-control': 'public, max-age=31536000',
-            'access-control-allow-origin': '*',
-            'x-served-from': 'r2' // Debug header to confirm source
+            'access-control-allow-origin': '*'
           }
         });
       } catch (error) {
         console.error('R2 fetch error:', error);
-        // Fall back to Pages on error
-        return next();
+        return new Response('Error serving game file', { 
+          status: 500,
+          headers: {
+            'content-type': 'text/plain'
+          }
+        });
       }
-    } else {
-      console.log('Serving from Pages:', gameDir);
     }
   }
 
