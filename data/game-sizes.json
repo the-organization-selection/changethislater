@@ -1,0 +1,1998 @@
+{
+  "largeGames": [
+    {
+      "name": "emulatorjs",
+      "directory": "emulatorjs",
+      "sizeInBytes": 244822237,
+      "sizeInMB": 233.48
+    },
+    {
+      "name": "turbowarp",
+      "directory": "turbowarp",
+      "sizeInBytes": 54122422,
+      "sizeInMB": 51.62
+    },
+    {
+      "name": "forge",
+      "directory": "forge",
+      "sizeInBytes": 41571326,
+      "sizeInMB": 39.65
+    },
+    {
+      "name": "uwu",
+      "directory": "uwu",
+      "sizeInBytes": 38897164,
+      "sizeInMB": 37.1
+    },
+    {
+      "name": "online-mc",
+      "directory": "online-mc",
+      "sizeInBytes": 28933826,
+      "sizeInMB": 27.59
+    },
+    {
+      "name": "water",
+      "directory": "water",
+      "sizeInBytes": 27675911,
+      "sizeInMB": 26.39
+    },
+    {
+      "name": "ayun",
+      "directory": "ayun",
+      "sizeInBytes": 26831421,
+      "sizeInMB": 25.59
+    },
+    {
+      "name": "eg1.8",
+      "directory": "eg1.8",
+      "sizeInBytes": 26528134,
+      "sizeInMB": 25.3
+    }
+  ],
+  "smallGames": [
+    {
+      "name": "cuttherope",
+      "directory": "cuttherope",
+      "sizeInBytes": 26063524,
+      "sizeInMB": 24.86
+    },
+    {
+      "name": "drag",
+      "directory": "drag",
+      "sizeInBytes": 26042067,
+      "sizeInMB": 24.84
+    },
+    {
+      "name": "deepestsword",
+      "directory": "deepestsword",
+      "sizeInBytes": 26039945,
+      "sizeInMB": 24.83
+    },
+    {
+      "name": "soundboard",
+      "directory": "soundboard",
+      "sizeInBytes": 25977867,
+      "sizeInMB": 24.77
+    },
+    {
+      "name": "eter",
+      "directory": "eter",
+      "sizeInBytes": 25934902,
+      "sizeInMB": 24.73
+    },
+    {
+      "name": "bobtherobber2",
+      "directory": "bobtherobber2",
+      "sizeInBytes": 25405456,
+      "sizeInMB": 24.23
+    },
+    {
+      "name": "vex6",
+      "directory": "vex6",
+      "sizeInBytes": 24481079,
+      "sizeInMB": 23.35
+    },
+    {
+      "name": "terrifried",
+      "directory": "terrifried",
+      "sizeInBytes": 23775346,
+      "sizeInMB": 22.67
+    },
+    {
+      "name": "flame",
+      "directory": "flame",
+      "sizeInBytes": 23714577,
+      "sizeInMB": 22.62
+    },
+    {
+      "name": "shadow",
+      "directory": "shadow",
+      "sizeInBytes": 23654531,
+      "sizeInMB": 22.56
+    },
+    {
+      "name": "supermario64",
+      "directory": "supermario64",
+      "sizeInBytes": 23624211,
+      "sizeInMB": 22.53
+    },
+    {
+      "name": "reborn",
+      "directory": "reborn",
+      "sizeInBytes": 23230370,
+      "sizeInMB": 22.15
+    },
+    {
+      "name": "dadish3",
+      "directory": "dadish3",
+      "sizeInBytes": 23204007,
+      "sizeInMB": 22.13
+    },
+    {
+      "name": "clickerheroes",
+      "directory": "clickerheroes",
+      "sizeInBytes": 22860973,
+      "sizeInMB": 21.8
+    },
+    {
+      "name": "flippyfish",
+      "directory": "flippyfish",
+      "sizeInBytes": 22817676,
+      "sizeInMB": 21.76
+    },
+    {
+      "name": "demon",
+      "directory": "demon",
+      "sizeInBytes": 22125147,
+      "sizeInMB": 21.1
+    },
+    {
+      "name": "karlsont",
+      "directory": "karlsont",
+      "sizeInBytes": 21876598,
+      "sizeInMB": 20.86
+    },
+    {
+      "name": "timeshooter1",
+      "directory": "timeshooter1",
+      "sizeInBytes": 21627151,
+      "sizeInMB": 20.63
+    },
+    {
+      "name": "hillclimbracing2",
+      "directory": "hillclimbracing2",
+      "sizeInBytes": 21170738,
+      "sizeInMB": 20.19
+    },
+    {
+      "name": "skibiditoilet",
+      "directory": "skibiditoilet",
+      "sizeInBytes": 21141072,
+      "sizeInMB": 20.16
+    },
+    {
+      "name": "papasscooperia",
+      "directory": "papasscooperia",
+      "sizeInBytes": 20976966,
+      "sizeInMB": 20.01
+    },
+    {
+      "name": "keroseneclient",
+      "directory": "keroseneclient",
+      "sizeInBytes": 20935391,
+      "sizeInMB": 19.97
+    },
+    {
+      "name": "jetpackjoyride",
+      "directory": "jetpackjoyride",
+      "sizeInBytes": 20548187,
+      "sizeInMB": 19.6
+    },
+    {
+      "name": "hexgl",
+      "directory": "hexgl",
+      "sizeInBytes": 20421105,
+      "sizeInMB": 19.48
+    },
+    {
+      "name": "bitlife",
+      "directory": "bitlife",
+      "sizeInBytes": 20371052,
+      "sizeInMB": 19.43
+    },
+    {
+      "name": "gunknight",
+      "directory": "gunknight",
+      "sizeInBytes": 20291680,
+      "sizeInMB": 19.35
+    },
+    {
+      "name": "pi",
+      "directory": "pi",
+      "sizeInBytes": 20274310,
+      "sizeInMB": 19.34
+    },
+    {
+      "name": "pre",
+      "directory": "pre",
+      "sizeInBytes": 20203562,
+      "sizeInMB": 19.27
+    },
+    {
+      "name": "ovo",
+      "directory": "ovo",
+      "sizeInBytes": 20041125,
+      "sizeInMB": 19.11
+    },
+    {
+      "name": "nit",
+      "directory": "nit",
+      "sizeInBytes": 20024631,
+      "sizeInMB": 19.1
+    },
+    {
+      "name": "geodashrm",
+      "directory": "geodashrm",
+      "sizeInBytes": 20010795,
+      "sizeInMB": 19.08
+    },
+    {
+      "name": "justfalllol",
+      "directory": "justfalllol",
+      "sizeInBytes": 19897308,
+      "sizeInMB": 18.98
+    },
+    {
+      "name": "codercraft",
+      "directory": "codercraft",
+      "sizeInBytes": 19576025,
+      "sizeInMB": 18.67
+    },
+    {
+      "name": "adofai",
+      "directory": "adofai",
+      "sizeInBytes": 19549667,
+      "sizeInMB": 18.64
+    },
+    {
+      "name": "ngon",
+      "directory": "ngon",
+      "sizeInBytes": 18939331,
+      "sizeInMB": 18.06
+    },
+    {
+      "name": "subway-surfers-ny",
+      "directory": "subway-surfers-ny",
+      "sizeInBytes": 18921726,
+      "sizeInMB": 18.05
+    },
+    {
+      "name": "fruitninja",
+      "directory": "fruitninja",
+      "sizeInBytes": 18896989,
+      "sizeInMB": 18.02
+    },
+    {
+      "name": "sandtrix",
+      "directory": "sandtrix",
+      "sizeInBytes": 18853058,
+      "sizeInMB": 17.98
+    },
+    {
+      "name": "tunnelrush",
+      "directory": "tunnelrush",
+      "sizeInBytes": 18753894,
+      "sizeInMB": 17.89
+    },
+    {
+      "name": "funnyshooter",
+      "directory": "funnyshooter",
+      "sizeInBytes": 18556793,
+      "sizeInMB": 17.7
+    },
+    {
+      "name": "skibiditoiletattack",
+      "directory": "skibiditoiletattack",
+      "sizeInBytes": 18520884,
+      "sizeInMB": 17.66
+    },
+    {
+      "name": "riddleschooltransfer2",
+      "directory": "riddleschooltransfer2",
+      "sizeInBytes": 18364830,
+      "sizeInMB": 17.51
+    },
+    {
+      "name": "tappyplane",
+      "directory": "tappyplane",
+      "sizeInBytes": 18317973,
+      "sizeInMB": 17.47
+    },
+    {
+      "name": "eg1.12.2",
+      "directory": "eg1.12.2",
+      "sizeInBytes": 17764590,
+      "sizeInMB": 16.94
+    },
+    {
+      "name": "lasthorizon",
+      "directory": "lasthorizon",
+      "sizeInBytes": 17698793,
+      "sizeInMB": 16.88
+    },
+    {
+      "name": "supermario64ds",
+      "directory": "supermario64ds",
+      "sizeInBytes": 17217721,
+      "sizeInMB": 16.42
+    },
+    {
+      "name": "cmm-client",
+      "directory": "cmm-client",
+      "sizeInBytes": 17155938,
+      "sizeInMB": 16.36
+    },
+    {
+      "name": "banjokazooie",
+      "directory": "banjokazooie",
+      "sizeInBytes": 17104506,
+      "sizeInMB": 16.31
+    },
+    {
+      "name": "mc-sp1",
+      "directory": "mc-sp1",
+      "sizeInBytes": 16974946,
+      "sizeInMB": 16.19
+    },
+    {
+      "name": "nova",
+      "directory": "nova",
+      "sizeInBytes": 16920509,
+      "sizeInMB": 16.14
+    },
+    {
+      "name": "supersmashbros",
+      "directory": "supersmashbros",
+      "sizeInBytes": 16796568,
+      "sizeInMB": 16.02
+    },
+    {
+      "name": "ducklife4",
+      "directory": "ducklife4",
+      "sizeInBytes": 16598586,
+      "sizeInMB": 15.83
+    },
+    {
+      "name": "offline-mc",
+      "directory": "offline-mc",
+      "sizeInBytes": 16578239,
+      "sizeInMB": 15.81
+    },
+    {
+      "name": "ducklife2",
+      "directory": "ducklife2",
+      "sizeInBytes": 16577432,
+      "sizeInMB": 15.81
+    },
+    {
+      "name": "mega",
+      "directory": "mega",
+      "sizeInBytes": 16380081,
+      "sizeInMB": 15.62
+    },
+    {
+      "name": "mind",
+      "directory": "mind",
+      "sizeInBytes": 16237706,
+      "sizeInMB": 15.49
+    },
+    {
+      "name": "papassushiria",
+      "directory": "papassushiria",
+      "sizeInBytes": 15813624,
+      "sizeInMB": 15.08
+    },
+    {
+      "name": "enchant",
+      "directory": "enchant",
+      "sizeInBytes": 15713864,
+      "sizeInMB": 14.99
+    },
+    {
+      "name": "enchantedcave2",
+      "directory": "enchantedcave2",
+      "sizeInBytes": 15659790,
+      "sizeInMB": 14.93
+    },
+    {
+      "name": "riddleschooltransfer",
+      "directory": "riddleschooltransfer",
+      "sizeInBytes": 15653374,
+      "sizeInMB": 14.93
+    },
+    {
+      "name": "holeio",
+      "directory": "holeio",
+      "sizeInBytes": 15503399,
+      "sizeInMB": 14.79
+    },
+    {
+      "name": "win11",
+      "directory": "win11",
+      "sizeInBytes": 15448411,
+      "sizeInMB": 14.73
+    },
+    {
+      "name": "bloodtournament",
+      "directory": "bloodtournament",
+      "sizeInBytes": 15423119,
+      "sizeInMB": 14.71
+    },
+    {
+      "name": "mario63",
+      "directory": "mario63",
+      "sizeInBytes": 15394547,
+      "sizeInMB": 14.68
+    },
+    {
+      "name": "lazyjump3d",
+      "directory": "lazyjump3d",
+      "sizeInBytes": 15171476,
+      "sizeInMB": 14.47
+    },
+    {
+      "name": "retrobowlcollege",
+      "directory": "retrobowlcollege",
+      "sizeInBytes": 14962612,
+      "sizeInMB": 14.27
+    },
+    {
+      "name": "monkeymart",
+      "directory": "monkeymart",
+      "sizeInBytes": 14870950,
+      "sizeInMB": 14.18
+    },
+    {
+      "name": "papasbakeria",
+      "directory": "papasbakeria",
+      "sizeInBytes": 14780856,
+      "sizeInMB": 14.1
+    },
+    {
+      "name": "stealingthediamond",
+      "directory": "stealingthediamond",
+      "sizeInBytes": 14603687,
+      "sizeInMB": 13.93
+    },
+    {
+      "name": "riddleschool5",
+      "directory": "riddleschool5",
+      "sizeInBytes": 14549609,
+      "sizeInMB": 13.88
+    },
+    {
+      "name": "getawayshooter",
+      "directory": "getawayshooter",
+      "sizeInBytes": 13719958,
+      "sizeInMB": 13.08
+    },
+    {
+      "name": "snowrider3d",
+      "directory": "snowrider3d",
+      "sizeInBytes": 13397818,
+      "sizeInMB": 12.78
+    },
+    {
+      "name": "retrobowl",
+      "directory": "retrobowl",
+      "sizeInBytes": 13209608,
+      "sizeInMB": 12.6
+    },
+    {
+      "name": "ducklife1",
+      "directory": "ducklife1",
+      "sizeInBytes": 13145556,
+      "sizeInMB": 12.54
+    },
+    {
+      "name": "amongus",
+      "directory": "amongus",
+      "sizeInBytes": 13122110,
+      "sizeInMB": 12.51
+    },
+    {
+      "name": "cookieclicker",
+      "directory": "cookieclicker",
+      "sizeInBytes": 13006582,
+      "sizeInMB": 12.4
+    },
+    {
+      "name": "starfox64",
+      "directory": "starfox64",
+      "sizeInBytes": 12887660,
+      "sizeInMB": 12.29
+    },
+    {
+      "name": "goldeneye",
+      "directory": "goldeneye",
+      "sizeInBytes": 12836772,
+      "sizeInMB": 12.24
+    },
+    {
+      "name": "nebula",
+      "directory": "nebula",
+      "sizeInBytes": 12783081,
+      "sizeInMB": 12.19
+    },
+    {
+      "name": "cuttherope-holiday",
+      "directory": "cuttherope-holiday",
+      "sizeInBytes": 12695177,
+      "sizeInMB": 12.11
+    },
+    {
+      "name": "papascheeseria",
+      "directory": "papascheeseria",
+      "sizeInBytes": 12667258,
+      "sizeInMB": 12.08
+    },
+    {
+      "name": "papasdonuteria",
+      "directory": "papasdonuteria",
+      "sizeInBytes": 12615635,
+      "sizeInMB": 12.03
+    },
+    {
+      "name": "minecraft-tower-defence-2",
+      "directory": "minecraft-tower-defence-2",
+      "sizeInBytes": 12068902,
+      "sizeInMB": 11.51
+    },
+    {
+      "name": "mcclassic",
+      "directory": "mcclassic",
+      "sizeInBytes": 11749206,
+      "sizeInMB": 11.2
+    },
+    {
+      "name": "dogeminer",
+      "directory": "dogeminer",
+      "sizeInBytes": 11480233,
+      "sizeInMB": 10.95
+    },
+    {
+      "name": "chess",
+      "directory": "chess",
+      "sizeInBytes": 11436970,
+      "sizeInMB": 10.91
+    },
+    {
+      "name": "aow2",
+      "directory": "aow2",
+      "sizeInBytes": 11427645,
+      "sizeInMB": 10.9
+    },
+    {
+      "name": "btd5",
+      "directory": "btd5",
+      "sizeInBytes": 11419939,
+      "sizeInMB": 10.89
+    },
+    {
+      "name": "future",
+      "directory": "future",
+      "sizeInBytes": 11318656,
+      "sizeInMB": 10.79
+    },
+    {
+      "name": "papastacomia",
+      "directory": "papastacomia",
+      "sizeInBytes": 11096395,
+      "sizeInMB": 10.58
+    },
+    {
+      "name": "mario",
+      "directory": "mario",
+      "sizeInBytes": 11092839,
+      "sizeInMB": 10.58
+    },
+    {
+      "name": "fancypantsadventures2",
+      "directory": "fancypantsadventures2",
+      "sizeInBytes": 11011347,
+      "sizeInMB": 10.5
+    },
+    {
+      "name": "papaspastaria",
+      "directory": "papaspastaria",
+      "sizeInBytes": 10911503,
+      "sizeInMB": 10.41
+    },
+    {
+      "name": "tabs",
+      "directory": "tabs",
+      "sizeInBytes": 10767038,
+      "sizeInMB": 10.27
+    },
+    {
+      "name": "doom",
+      "directory": "doom",
+      "sizeInBytes": 10520485,
+      "sizeInMB": 10.03
+    },
+    {
+      "name": "cell-machine",
+      "directory": "cell-machine",
+      "sizeInBytes": 10444465,
+      "sizeInMB": 9.96
+    },
+    {
+      "name": "fireboywatergirl",
+      "directory": "fireboywatergirl",
+      "sizeInBytes": 10263694,
+      "sizeInMB": 9.79
+    },
+    {
+      "name": "redball3",
+      "directory": "redball3",
+      "sizeInBytes": 10118140,
+      "sizeInMB": 9.65
+    },
+    {
+      "name": "slope",
+      "directory": "slope",
+      "sizeInBytes": 10109657,
+      "sizeInMB": 9.64
+    },
+    {
+      "name": "thefinalearth2",
+      "directory": "thefinalearth2",
+      "sizeInBytes": 9837972,
+      "sizeInMB": 9.38
+    },
+    {
+      "name": "motox3m-spooky",
+      "directory": "motox3m-spooky",
+      "sizeInBytes": 9763850,
+      "sizeInMB": 9.31
+    },
+    {
+      "name": "escapingtheprison",
+      "directory": "escapingtheprison",
+      "sizeInBytes": 9744978,
+      "sizeInMB": 9.29
+    },
+    {
+      "name": "blockzappers",
+      "directory": "blockzappers",
+      "sizeInBytes": 9609717,
+      "sizeInMB": 9.16
+    },
+    {
+      "name": "factoryballsforever",
+      "directory": "factoryballsforever",
+      "sizeInBytes": 9455737,
+      "sizeInMB": 9.02
+    },
+    {
+      "name": "timeshooter2",
+      "directory": "timeshooter2",
+      "sizeInBytes": 9448988,
+      "sizeInMB": 9.01
+    },
+    {
+      "name": "tboi",
+      "directory": "tboi",
+      "sizeInBytes": 9388238,
+      "sizeInMB": 8.95
+    },
+    {
+      "name": "fireboywatergirl2",
+      "directory": "fireboywatergirl2",
+      "sizeInBytes": 9257434,
+      "sizeInMB": 8.83
+    },
+    {
+      "name": "redball4",
+      "directory": "redball4",
+      "sizeInBytes": 9223759,
+      "sizeInMB": 8.8
+    },
+    {
+      "name": "fireboywatergirl3",
+      "directory": "fireboywatergirl3",
+      "sizeInBytes": 9082475,
+      "sizeInMB": 8.66
+    },
+    {
+      "name": "gunmayhem2",
+      "directory": "gunmayhem2",
+      "sizeInBytes": 8905677,
+      "sizeInMB": 8.49
+    },
+    {
+      "name": "motox3m-pool",
+      "directory": "motox3m-pool",
+      "sizeInBytes": 8901716,
+      "sizeInMB": 8.49
+    },
+    {
+      "name": "fireboywatergirl4",
+      "directory": "fireboywatergirl4",
+      "sizeInBytes": 8890846,
+      "sizeInMB": 8.48
+    },
+    {
+      "name": "supersmashflash",
+      "directory": "supersmashflash",
+      "sizeInBytes": 8848305,
+      "sizeInMB": 8.44
+    },
+    {
+      "name": "timeshooter3",
+      "directory": "timeshooter3",
+      "sizeInBytes": 8795561,
+      "sizeInMB": 8.39
+    },
+    {
+      "name": "motox3m-winter",
+      "directory": "motox3m-winter",
+      "sizeInBytes": 8731989,
+      "sizeInMB": 8.33
+    },
+    {
+      "name": "doom64",
+      "directory": "doom64",
+      "sizeInBytes": 8672333,
+      "sizeInMB": 8.27
+    },
+    {
+      "name": "guiltygear",
+      "directory": "guiltygear",
+      "sizeInBytes": 8636749,
+      "sizeInMB": 8.24
+    },
+    {
+      "name": "metroidzeromission",
+      "directory": "metroidzeromission",
+      "sizeInBytes": 8634066,
+      "sizeInMB": 8.23
+    },
+    {
+      "name": "alpha",
+      "directory": "alpha",
+      "sizeInBytes": 8632555,
+      "sizeInMB": 8.23
+    },
+    {
+      "name": "rooftopsnipers",
+      "directory": "rooftopsnipers",
+      "sizeInBytes": 8611981,
+      "sizeInMB": 8.21
+    },
+    {
+      "name": "basketball-stars",
+      "directory": "basketball-stars",
+      "sizeInBytes": 8462661,
+      "sizeInMB": 8.07
+    },
+    {
+      "name": "motox3m",
+      "directory": "motox3m",
+      "sizeInBytes": 8397376,
+      "sizeInMB": 8.01
+    },
+    {
+      "name": "stickmanclimb",
+      "directory": "stickmanclimb",
+      "sizeInBytes": 8188671,
+      "sizeInMB": 7.81
+    },
+    {
+      "name": "geometryrash",
+      "directory": "geometryrash",
+      "sizeInBytes": 8069247,
+      "sizeInMB": 7.7
+    },
+    {
+      "name": "papaswingeria",
+      "directory": "papaswingeria",
+      "sizeInBytes": 8040458,
+      "sizeInMB": 7.67
+    },
+    {
+      "name": "slope2",
+      "directory": "slope2",
+      "sizeInBytes": 7741245,
+      "sizeInMB": 7.38
+    },
+    {
+      "name": "riddleschool3",
+      "directory": "riddleschool3",
+      "sizeInBytes": 7711486,
+      "sizeInMB": 7.35
+    },
+    {
+      "name": "geometrydash",
+      "directory": "geometrydash",
+      "sizeInBytes": 7708882,
+      "sizeInMB": 7.35
+    },
+    {
+      "name": "dadish2",
+      "directory": "dadish2",
+      "sizeInBytes": 7597238,
+      "sizeInMB": 7.25
+    },
+    {
+      "name": "dadish",
+      "directory": "dadish",
+      "sizeInBytes": 7434281,
+      "sizeInMB": 7.09
+    },
+    {
+      "name": "badicecream3",
+      "directory": "badicecream3",
+      "sizeInBytes": 7356164,
+      "sizeInMB": 7.02
+    },
+    {
+      "name": "gunmayhemredux",
+      "directory": "gunmayhemredux",
+      "sizeInBytes": 7280630,
+      "sizeInMB": 6.94
+    },
+    {
+      "name": "drift-boss",
+      "directory": "drift-boss",
+      "sizeInBytes": 7268488,
+      "sizeInMB": 6.93
+    },
+    {
+      "name": "thumbfighter",
+      "directory": "thumbfighter",
+      "sizeInBytes": 7172799,
+      "sizeInMB": 6.84
+    },
+    {
+      "name": "run3",
+      "directory": "run3",
+      "sizeInBytes": 7059834,
+      "sizeInMB": 6.73
+    },
+    {
+      "name": "grandtruckismo",
+      "directory": "grandtruckismo",
+      "sizeInBytes": 6983280,
+      "sizeInMB": 6.66
+    },
+    {
+      "name": "chibiknight",
+      "directory": "chibiknight",
+      "sizeInBytes": 6950679,
+      "sizeInMB": 6.63
+    },
+    {
+      "name": "kickthatbuddy",
+      "directory": "kickthatbuddy",
+      "sizeInBytes": 6942091,
+      "sizeInMB": 6.62
+    },
+    {
+      "name": "creepercraft",
+      "directory": "creepercraft",
+      "sizeInBytes": 6914436,
+      "sizeInMB": 6.59
+    },
+    {
+      "name": "yohoho",
+      "directory": "yohoho",
+      "sizeInBytes": 6875995,
+      "sizeInMB": 6.56
+    },
+    {
+      "name": "papaspancakeria",
+      "directory": "papaspancakeria",
+      "sizeInBytes": 6845289,
+      "sizeInMB": 6.53
+    },
+    {
+      "name": "crossyroad",
+      "directory": "crossyroad",
+      "sizeInBytes": 6717795,
+      "sizeInMB": 6.41
+    },
+    {
+      "name": "wbwwb",
+      "directory": "wbwwb",
+      "sizeInBytes": 6698488,
+      "sizeInMB": 6.39
+    },
+    {
+      "name": "badicecream2",
+      "directory": "badicecream2",
+      "sizeInBytes": 6563265,
+      "sizeInMB": 6.26
+    },
+    {
+      "name": "thereisnogame",
+      "directory": "thereisnogame",
+      "sizeInBytes": 6446258,
+      "sizeInMB": 6.15
+    },
+    {
+      "name": "tube-jumpers",
+      "directory": "tube-jumpers",
+      "sizeInBytes": 6366858,
+      "sizeInMB": 6.07
+    },
+    {
+      "name": "death-run-3d",
+      "directory": "death-run-3d",
+      "sizeInBytes": 6356997,
+      "sizeInMB": 6.06
+    },
+    {
+      "name": "030",
+      "directory": "030",
+      "sizeInBytes": 6356783,
+      "sizeInMB": 6.06
+    },
+    {
+      "name": "redball4vol2",
+      "directory": "redball4vol2",
+      "sizeInBytes": 6229913,
+      "sizeInMB": 5.94
+    },
+    {
+      "name": "riddleschool4",
+      "directory": "riddleschool4",
+      "sizeInBytes": 6175997,
+      "sizeInMB": 5.89
+    },
+    {
+      "name": "tu46",
+      "directory": "tu46",
+      "sizeInBytes": 5994069,
+      "sizeInMB": 5.72
+    },
+    {
+      "name": "gunmayhem",
+      "directory": "gunmayhem",
+      "sizeInBytes": 5967600,
+      "sizeInMB": 5.69
+    },
+    {
+      "name": "awesometanks",
+      "directory": "awesometanks",
+      "sizeInBytes": 5908443,
+      "sizeInMB": 5.63
+    },
+    {
+      "name": "zombocalypse",
+      "directory": "zombocalypse",
+      "sizeInBytes": 5907295,
+      "sizeInMB": 5.63
+    },
+    {
+      "name": "vex4",
+      "directory": "vex4",
+      "sizeInBytes": 5784716,
+      "sizeInMB": 5.52
+    },
+    {
+      "name": "lowsadventures2",
+      "directory": "lowsadventures2",
+      "sizeInBytes": 5757739,
+      "sizeInMB": 5.49
+    },
+    {
+      "name": "vex5",
+      "directory": "vex5",
+      "sizeInBytes": 5677289,
+      "sizeInMB": 5.41
+    },
+    {
+      "name": "supermeatboy",
+      "directory": "supermeatboy",
+      "sizeInBytes": 5553405,
+      "sizeInMB": 5.3
+    },
+    {
+      "name": "ducklife5",
+      "directory": "ducklife5",
+      "sizeInBytes": 5481787,
+      "sizeInMB": 5.23
+    },
+    {
+      "name": "redball4vol3",
+      "directory": "redball4vol3",
+      "sizeInBytes": 5447305,
+      "sizeInMB": 5.19
+    },
+    {
+      "name": "adarkroom",
+      "directory": "adarkroom",
+      "sizeInBytes": 5420121,
+      "sizeInMB": 5.17
+    },
+    {
+      "name": "learntofly2",
+      "directory": "learntofly2",
+      "sizeInBytes": 5391674,
+      "sizeInMB": 5.14
+    },
+    {
+      "name": "nutsim",
+      "directory": "nutsim",
+      "sizeInBytes": 5391358,
+      "sizeInMB": 5.14
+    },
+    {
+      "name": "papasfreezeria",
+      "directory": "papasfreezeria",
+      "sizeInBytes": 5314939,
+      "sizeInMB": 5.07
+    },
+    {
+      "name": "badicecream",
+      "directory": "badicecream",
+      "sizeInBytes": 5279917,
+      "sizeInMB": 5.04
+    },
+    {
+      "name": "125",
+      "directory": "125",
+      "sizeInBytes": 5276356,
+      "sizeInMB": 5.03
+    },
+    {
+      "name": "basketbros",
+      "directory": "basketbros",
+      "sizeInBytes": 5210036,
+      "sizeInMB": 4.97
+    },
+    {
+      "name": "driving",
+      "directory": "driving",
+      "sizeInBytes": 5109914,
+      "sizeInMB": 4.87
+    },
+    {
+      "name": "vex3",
+      "directory": "vex3",
+      "sizeInBytes": 5099374,
+      "sizeInMB": 4.86
+    },
+    {
+      "name": "theimpossiblequiz",
+      "directory": "theimpossiblequiz",
+      "sizeInBytes": 4870847,
+      "sizeInMB": 4.65
+    },
+    {
+      "name": "halloween2016",
+      "directory": "halloween2016",
+      "sizeInBytes": 4840591,
+      "sizeInMB": 4.62
+    },
+    {
+      "name": "13",
+      "directory": "13",
+      "sizeInBytes": 4801948,
+      "sizeInMB": 4.58
+    },
+    {
+      "name": "ritz",
+      "directory": "ritz",
+      "sizeInBytes": 4791087,
+      "sizeInMB": 4.57
+    },
+    {
+      "name": "boxingrandom",
+      "directory": "boxingrandom",
+      "sizeInBytes": 4761333,
+      "sizeInMB": 4.54
+    },
+    {
+      "name": "beta",
+      "directory": "beta",
+      "sizeInBytes": 4719138,
+      "sizeInMB": 4.5
+    },
+    {
+      "name": "17",
+      "directory": "17",
+      "sizeInBytes": 4719009,
+      "sizeInMB": 4.5
+    },
+    {
+      "name": "wordlebot",
+      "directory": "wordlebot",
+      "sizeInBytes": 4681814,
+      "sizeInMB": 4.46
+    },
+    {
+      "name": "2drocketleague",
+      "directory": "2drocketleague",
+      "sizeInBytes": 4677879,
+      "sizeInMB": 4.46
+    },
+    {
+      "name": "pandemic2",
+      "directory": "pandemic2",
+      "sizeInBytes": 4422540,
+      "sizeInMB": 4.22
+    },
+    {
+      "name": "happywheels",
+      "directory": "happywheels",
+      "sizeInBytes": 4414897,
+      "sizeInMB": 4.21
+    },
+    {
+      "name": "flappyplane",
+      "directory": "flappyplane",
+      "sizeInBytes": 4390992,
+      "sizeInMB": 4.19
+    },
+    {
+      "name": "tinyfishing",
+      "directory": "tinyfishing",
+      "sizeInBytes": 4371613,
+      "sizeInMB": 4.17
+    },
+    {
+      "name": "vex2",
+      "directory": "vex2",
+      "sizeInBytes": 4363299,
+      "sizeInMB": 4.16
+    },
+    {
+      "name": "splashanddash",
+      "directory": "splashanddash",
+      "sizeInBytes": 4209127,
+      "sizeInMB": 4.01
+    },
+    {
+      "name": "knifehit",
+      "directory": "knifehit",
+      "sizeInBytes": 4067537,
+      "sizeInMB": 3.88
+    },
+    {
+      "name": "vex",
+      "directory": "vex",
+      "sizeInBytes": 4038741,
+      "sizeInMB": 3.85
+    },
+    {
+      "name": "stickman-hook",
+      "directory": "stickman-hook",
+      "sizeInBytes": 3986754,
+      "sizeInMB": 3.8
+    },
+    {
+      "name": "stickmanboost",
+      "directory": "stickmanboost",
+      "sizeInBytes": 3812967,
+      "sizeInMB": 3.64
+    },
+    {
+      "name": "stickmangolf",
+      "directory": "stickmangolf",
+      "sizeInBytes": 3759876,
+      "sizeInMB": 3.59
+    },
+    {
+      "name": "eggycar",
+      "directory": "eggycar",
+      "sizeInBytes": 3747643,
+      "sizeInMB": 3.57
+    },
+    {
+      "name": "colorswitch",
+      "directory": "colorswitch",
+      "sizeInBytes": 3714502,
+      "sizeInMB": 3.54
+    },
+    {
+      "name": "pong",
+      "directory": "pong",
+      "sizeInBytes": 3704957,
+      "sizeInMB": 3.53
+    },
+    {
+      "name": "littlealchemy",
+      "directory": "littlealchemy",
+      "sizeInBytes": 3696022,
+      "sizeInMB": 3.52
+    },
+    {
+      "name": "ageofwar",
+      "directory": "ageofwar",
+      "sizeInBytes": 3695388,
+      "sizeInMB": 3.52
+    },
+    {
+      "name": "60sburgerrun",
+      "directory": "60sburgerrun",
+      "sizeInBytes": 3682473,
+      "sizeInMB": 3.51
+    },
+    {
+      "name": "commodoreclicker",
+      "directory": "commodoreclicker",
+      "sizeInBytes": 3626345,
+      "sizeInMB": 3.46
+    },
+    {
+      "name": "monstertracks",
+      "directory": "monstertracks",
+      "sizeInBytes": 3589903,
+      "sizeInMB": 3.42
+    },
+    {
+      "name": "drivemad",
+      "directory": "drivemad",
+      "sizeInBytes": 3571988,
+      "sizeInMB": 3.41
+    },
+    {
+      "name": "themehotel",
+      "directory": "themehotel",
+      "sizeInBytes": 3536842,
+      "sizeInMB": 3.37
+    },
+    {
+      "name": "basketrandom",
+      "directory": "basketrandom",
+      "sizeInBytes": 3486342,
+      "sizeInMB": 3.32
+    },
+    {
+      "name": "gamemaker",
+      "directory": "gamemaker",
+      "sizeInBytes": 3486065,
+      "sizeInMB": 3.32
+    },
+    {
+      "name": "gloom",
+      "directory": "gloom",
+      "sizeInBytes": 3448271,
+      "sizeInMB": 3.29
+    },
+    {
+      "name": "stateio",
+      "directory": "stateio",
+      "sizeInBytes": 3370110,
+      "sizeInMB": 3.21
+    },
+    {
+      "name": "gba",
+      "directory": "gba",
+      "sizeInBytes": 3359616,
+      "sizeInMB": 3.2
+    },
+    {
+      "name": "achieveunlocked2",
+      "directory": "achieveunlocked2",
+      "sizeInBytes": 3343700,
+      "sizeInMB": 3.19
+    },
+    {
+      "name": "sb2toswf",
+      "directory": "sb2toswf",
+      "sizeInBytes": 3326838,
+      "sizeInMB": 3.17
+    },
+    {
+      "name": "btd4",
+      "directory": "btd4",
+      "sizeInBytes": 3285706,
+      "sizeInMB": 3.13
+    },
+    {
+      "name": "ballisticchickens",
+      "directory": "ballisticchickens",
+      "sizeInBytes": 3257267,
+      "sizeInMB": 3.11
+    },
+    {
+      "name": "soccerrandom",
+      "directory": "soccerrandom",
+      "sizeInBytes": 3247246,
+      "sizeInMB": 3.1
+    },
+    {
+      "name": "shape",
+      "directory": "shape",
+      "sizeInBytes": 3239960,
+      "sizeInMB": 3.09
+    },
+    {
+      "name": "breakingthebank",
+      "directory": "breakingthebank",
+      "sizeInBytes": 3190175,
+      "sizeInMB": 3.04
+    },
+    {
+      "name": "slope-ball",
+      "directory": "slope-ball",
+      "sizeInBytes": 3165123,
+      "sizeInMB": 3.02
+    },
+    {
+      "name": "idlebreakout",
+      "directory": "idlebreakout",
+      "sizeInBytes": 3162751,
+      "sizeInMB": 3.02
+    },
+    {
+      "name": "learntoflyidle",
+      "directory": "learntoflyidle",
+      "sizeInBytes": 3134962,
+      "sizeInMB": 2.99
+    },
+    {
+      "name": "papasburgeria",
+      "directory": "papasburgeria",
+      "sizeInBytes": 3098041,
+      "sizeInMB": 2.95
+    },
+    {
+      "name": "bulletfury",
+      "directory": "bulletfury",
+      "sizeInBytes": 3010849,
+      "sizeInMB": 2.87
+    },
+    {
+      "name": "bikechamp2",
+      "directory": "bikechamp2",
+      "sizeInBytes": 3007774,
+      "sizeInMB": 2.87
+    },
+    {
+      "name": "recoil",
+      "directory": "recoil",
+      "sizeInBytes": 2991822,
+      "sizeInMB": 2.85
+    },
+    {
+      "name": "tu95",
+      "directory": "tu95",
+      "sizeInBytes": 2864549,
+      "sizeInMB": 2.73
+    },
+    {
+      "name": "wordle",
+      "directory": "wordle",
+      "sizeInBytes": 2862432,
+      "sizeInMB": 2.73
+    },
+    {
+      "name": "papaspizzeria",
+      "directory": "papaspizzeria",
+      "sizeInBytes": 2857977,
+      "sizeInMB": 2.73
+    },
+    {
+      "name": "fancypantsadventures",
+      "directory": "fancypantsadventures",
+      "sizeInBytes": 2746889,
+      "sizeInMB": 2.62
+    },
+    {
+      "name": "badtimesimulator",
+      "directory": "badtimesimulator",
+      "sizeInBytes": 2685501,
+      "sizeInMB": 2.56
+    },
+    {
+      "name": "achieveunlocked",
+      "directory": "achieveunlocked",
+      "sizeInBytes": 2504437,
+      "sizeInMB": 2.39
+    },
+    {
+      "name": "badpiggies",
+      "directory": "badpiggies",
+      "sizeInBytes": 2486762,
+      "sizeInMB": 2.37
+    },
+    {
+      "name": "heist",
+      "directory": "heist",
+      "sizeInBytes": 2227724,
+      "sizeInMB": 2.12
+    },
+    {
+      "name": "helixjump",
+      "directory": "helixjump",
+      "sizeInBytes": 2222643,
+      "sizeInMB": 2.12
+    },
+    {
+      "name": "bikechamp",
+      "directory": "bikechamp",
+      "sizeInBytes": 2186872,
+      "sizeInMB": 2.09
+    },
+    {
+      "name": "windows98",
+      "directory": "windows98",
+      "sizeInBytes": 2186146,
+      "sizeInMB": 2.08
+    },
+    {
+      "name": "hillclimbracing",
+      "directory": "hillclimbracing",
+      "sizeInBytes": 2180827,
+      "sizeInMB": 2.08
+    },
+    {
+      "name": "vm",
+      "directory": "vm",
+      "sizeInBytes": 2124981,
+      "sizeInMB": 2.03
+    },
+    {
+      "name": "golddiggerfrvr",
+      "directory": "golddiggerfrvr",
+      "sizeInBytes": 2043122,
+      "sizeInMB": 1.95
+    },
+    {
+      "name": "cds",
+      "directory": "cds",
+      "sizeInBytes": 2017295,
+      "sizeInMB": 1.92
+    },
+    {
+      "name": "pandemic",
+      "directory": "pandemic",
+      "sizeInBytes": 1921051,
+      "sizeInMB": 1.83
+    },
+    {
+      "name": "thisistheonlylevel2",
+      "directory": "thisistheonlylevel2",
+      "sizeInBytes": 1878986,
+      "sizeInMB": 1.79
+    },
+    {
+      "name": "theimpossiblegame",
+      "directory": "theimpossiblegame",
+      "sizeInBytes": 1785848,
+      "sizeInMB": 1.7
+    },
+    {
+      "name": "risehigher",
+      "directory": "risehigher",
+      "sizeInBytes": 1773640,
+      "sizeInMB": 1.69
+    },
+    {
+      "name": "drift",
+      "directory": "drift",
+      "sizeInBytes": 1738664,
+      "sizeInMB": 1.66
+    },
+    {
+      "name": "riddleschool2",
+      "directory": "riddleschool2",
+      "sizeInBytes": 1677432,
+      "sizeInMB": 1.6
+    },
+    {
+      "name": "flappybird",
+      "directory": "flappybird",
+      "sizeInBytes": 1625916,
+      "sizeInMB": 1.55
+    },
+    {
+      "name": "gtg",
+      "directory": "gtg",
+      "sizeInBytes": 1621491,
+      "sizeInMB": 1.55
+    },
+    {
+      "name": "linerider",
+      "directory": "linerider",
+      "sizeInBytes": 1550288,
+      "sizeInMB": 1.48
+    },
+    {
+      "name": "celeste",
+      "directory": "celeste",
+      "sizeInBytes": 1542937,
+      "sizeInMB": 1.47
+    },
+    {
+      "name": "territorialio",
+      "directory": "territorialio",
+      "sizeInBytes": 1529688,
+      "sizeInMB": 1.46
+    },
+    {
+      "name": "hextris",
+      "directory": "hextris",
+      "sizeInBytes": 1519221,
+      "sizeInMB": 1.45
+    },
+    {
+      "name": "geomelt",
+      "directory": "geomelt",
+      "sizeInBytes": 1470740,
+      "sizeInMB": 1.4
+    },
+    {
+      "name": "btd3",
+      "directory": "btd3",
+      "sizeInBytes": 1462284,
+      "sizeInMB": 1.39
+    },
+    {
+      "name": "1v1lol",
+      "directory": "1v1lol",
+      "sizeInBytes": 1378699,
+      "sizeInMB": 1.31
+    },
+    {
+      "name": "watermelongame",
+      "directory": "watermelongame",
+      "sizeInBytes": 1366894,
+      "sizeInMB": 1.3
+    },
+    {
+      "name": "thisistheonlylevel",
+      "directory": "thisistheonlylevel",
+      "sizeInBytes": 1332947,
+      "sizeInMB": 1.27
+    },
+    {
+      "name": "cubefield",
+      "directory": "cubefield",
+      "sizeInBytes": 1288757,
+      "sizeInMB": 1.23
+    },
+    {
+      "name": "inf",
+      "directory": "inf",
+      "sizeInBytes": 1275574,
+      "sizeInMB": 1.22
+    },
+    {
+      "name": "al2",
+      "directory": "al2",
+      "sizeInBytes": 1223105,
+      "sizeInMB": 1.17
+    },
+    {
+      "name": "tetris",
+      "directory": "tetris",
+      "sizeInBytes": 1151597,
+      "sizeInMB": 1.1
+    },
+    {
+      "name": "indev",
+      "directory": "indev",
+      "sizeInBytes": 1145597,
+      "sizeInMB": 1.09
+    },
+    {
+      "name": "sonicte",
+      "directory": "sonicte",
+      "sizeInBytes": 1118516,
+      "sizeInMB": 1.07
+    },
+    {
+      "name": "circloo",
+      "directory": "circloo",
+      "sizeInBytes": 1038337,
+      "sizeInMB": 0.99
+    },
+    {
+      "name": "learntofly",
+      "directory": "learntofly",
+      "sizeInBytes": 961103,
+      "sizeInMB": 0.92
+    },
+    {
+      "name": "fluidsim",
+      "directory": "fluidsim",
+      "sizeInBytes": 956208,
+      "sizeInMB": 0.91
+    },
+    {
+      "name": "redball",
+      "directory": "redball",
+      "sizeInBytes": 936467,
+      "sizeInMB": 0.89
+    },
+    {
+      "name": "run2",
+      "directory": "run2",
+      "sizeInBytes": 915369,
+      "sizeInMB": 0.87
+    },
+    {
+      "name": "weavesilk",
+      "directory": "weavesilk",
+      "sizeInBytes": 913845,
+      "sizeInMB": 0.87
+    },
+    {
+      "name": "geojump",
+      "directory": "geojump",
+      "sizeInBytes": 864475,
+      "sizeInMB": 0.82
+    },
+    {
+      "name": "btd2",
+      "directory": "btd2",
+      "sizeInBytes": 792887,
+      "sizeInMB": 0.76
+    },
+    {
+      "name": "mcdemo",
+      "directory": "mcdemo",
+      "sizeInBytes": 775871,
+      "sizeInMB": 0.74
+    },
+    {
+      "name": "worldshardestgame",
+      "directory": "worldshardestgame",
+      "sizeInBytes": 749458,
+      "sizeInMB": 0.71
+    },
+    {
+      "name": "run",
+      "directory": "run",
+      "sizeInBytes": 743764,
+      "sizeInMB": 0.71
+    },
+    {
+      "name": "paperio",
+      "directory": "paperio",
+      "sizeInBytes": 719431,
+      "sizeInMB": 0.69
+    },
+    {
+      "name": "box",
+      "directory": "box",
+      "sizeInBytes": 668637,
+      "sizeInMB": 0.64
+    },
+    {
+      "name": "riddleschool",
+      "directory": "riddleschool",
+      "sizeInBytes": 662663,
+      "sizeInMB": 0.63
+    },
+    {
+      "name": "pacman",
+      "directory": "pacman",
+      "sizeInBytes": 659826,
+      "sizeInMB": 0.63
+    },
+    {
+      "name": "worldhardestgame2",
+      "directory": "worldhardestgame2",
+      "sizeInBytes": 645680,
+      "sizeInMB": 0.62
+    },
+    {
+      "name": "stack",
+      "directory": "stack",
+      "sizeInBytes": 628428,
+      "sizeInMB": 0.6
+    },
+    {
+      "name": "oregon",
+      "directory": "oregon",
+      "sizeInBytes": 618463,
+      "sizeInMB": 0.59
+    },
+    {
+      "name": "bit-planes",
+      "directory": "bit-planes",
+      "sizeInBytes": 603504,
+      "sizeInMB": 0.58
+    },
+    {
+      "name": "csgoclicker",
+      "directory": "csgoclicker",
+      "sizeInBytes": 597503,
+      "sizeInMB": 0.57
+    },
+    {
+      "name": "xp",
+      "directory": "xp",
+      "sizeInBytes": 584993,
+      "sizeInMB": 0.56
+    },
+    {
+      "name": "btd",
+      "directory": "btd",
+      "sizeInBytes": 538072,
+      "sizeInMB": 0.51
+    },
+    {
+      "name": "avalanche",
+      "directory": "avalanche",
+      "sizeInBytes": 534986,
+      "sizeInMB": 0.51
+    },
+    {
+      "name": "gta3",
+      "directory": "gta3",
+      "sizeInBytes": 528533,
+      "sizeInMB": 0.5
+    },
+    {
+      "name": "c4",
+      "directory": "c4",
+      "sizeInBytes": 461152,
+      "sizeInMB": 0.44
+    },
+    {
+      "name": "universal-paperclips",
+      "directory": "universal-paperclips",
+      "sizeInBytes": 441623,
+      "sizeInMB": 0.42
+    },
+    {
+      "name": "star",
+      "directory": "star",
+      "sizeInBytes": 418718,
+      "sizeInMB": 0.4
+    },
+    {
+      "name": "wallsmash",
+      "directory": "wallsmash",
+      "sizeInBytes": 418199,
+      "sizeInMB": 0.4
+    },
+    {
+      "name": "sprinter",
+      "directory": "sprinter",
+      "sizeInBytes": 416738,
+      "sizeInMB": 0.4
+    },
+    {
+      "name": "flashflappy",
+      "directory": "flashflappy",
+      "sizeInBytes": 329013,
+      "sizeInMB": 0.31
+    },
+    {
+      "name": "tron",
+      "directory": "tron",
+      "sizeInBytes": 315268,
+      "sizeInMB": 0.3
+    },
+    {
+      "name": "1on1soccer",
+      "directory": "1on1soccer",
+      "sizeInBytes": 307629,
+      "sizeInMB": 0.29
+    },
+    {
+      "name": "hl2",
+      "directory": "hl2",
+      "sizeInBytes": 302416,
+      "sizeInMB": 0.29
+    },
+    {
+      "name": "doodlejump",
+      "directory": "doodlejump",
+      "sizeInBytes": 300901,
+      "sizeInMB": 0.29
+    },
+    {
+      "name": "flappyduck",
+      "directory": "flappyduck",
+      "sizeInBytes": 299440,
+      "sizeInMB": 0.29
+    },
+    {
+      "name": "spankthemonkey",
+      "directory": "spankthemonkey",
+      "sizeInBytes": 274168,
+      "sizeInMB": 0.26
+    },
+    {
+      "name": "flappycopter",
+      "directory": "flappycopter",
+      "sizeInBytes": 265745,
+      "sizeInMB": 0.25
+    },
+    {
+      "name": "iwbtc",
+      "directory": "iwbtc",
+      "sizeInBytes": 257486,
+      "sizeInMB": 0.25
+    },
+    {
+      "name": "factoryballs",
+      "directory": "factoryballs",
+      "sizeInBytes": 253500,
+      "sizeInMB": 0.24
+    },
+    {
+      "name": "solitaire",
+      "directory": "solitaire",
+      "sizeInBytes": 217728,
+      "sizeInMB": 0.21
+    },
+    {
+      "name": "scratch1",
+      "directory": "scratch1",
+      "sizeInBytes": 216538,
+      "sizeInMB": 0.21
+    },
+    {
+      "name": "snake",
+      "directory": "snake",
+      "sizeInBytes": 192978,
+      "sizeInMB": 0.18
+    },
+    {
+      "name": "minesweeper",
+      "directory": "minesweeper",
+      "sizeInBytes": 179531,
+      "sizeInMB": 0.17
+    },
+    {
+      "name": "sand",
+      "directory": "sand",
+      "sizeInBytes": 168630,
+      "sizeInMB": 0.16
+    },
+    {
+      "name": "pool",
+      "directory": "pool",
+      "sizeInBytes": 167508,
+      "sizeInMB": 0.16
+    },
+    {
+      "name": "simon",
+      "directory": "simon",
+      "sizeInBytes": 151161,
+      "sizeInMB": 0.14
+    },
+    {
+      "name": "roblox",
+      "directory": "roblox",
+      "sizeInBytes": 150805,
+      "sizeInMB": 0.14
+    },
+    {
+      "name": "offlineparadise",
+      "directory": "offlineparadise",
+      "sizeInBytes": 121361,
+      "sizeInMB": 0.12
+    },
+    {
+      "name": "fort",
+      "directory": "fort",
+      "sizeInBytes": 119560,
+      "sizeInMB": 0.11
+    },
+    {
+      "name": "frogger",
+      "directory": "frogger",
+      "sizeInBytes": 118635,
+      "sizeInMB": 0.11
+    },
+    {
+      "name": "dante",
+      "directory": "dante",
+      "sizeInBytes": 112792,
+      "sizeInMB": 0.11
+    },
+    {
+      "name": "dino",
+      "directory": "dino",
+      "sizeInBytes": 108928,
+      "sizeInMB": 0.1
+    },
+    {
+      "name": "poom",
+      "directory": "poom",
+      "sizeInBytes": 104618,
+      "sizeInMB": 0.1
+    },
+    {
+      "name": "crossnroad",
+      "directory": "crossnroad",
+      "sizeInBytes": 91507,
+      "sizeInMB": 0.09
+    },
+    {
+      "name": "jewel",
+      "directory": "jewel",
+      "sizeInBytes": 86843,
+      "sizeInMB": 0.08
+    },
+    {
+      "name": "racer",
+      "directory": "racer",
+      "sizeInBytes": 83967,
+      "sizeInMB": 0.08
+    },
+    {
+      "name": "eaglercraft",
+      "directory": "eaglercraft",
+      "sizeInBytes": 82281,
+      "sizeInMB": 0.08
+    },
+    {
+      "name": "copter",
+      "directory": "copter",
+      "sizeInBytes": 69250,
+      "sizeInMB": 0.07
+    },
+    {
+      "name": "adventure",
+      "directory": "adventure",
+      "sizeInBytes": 57213,
+      "sizeInMB": 0.05
+    },
+    {
+      "name": "rabbit",
+      "directory": "rabbit",
+      "sizeInBytes": 56696,
+      "sizeInMB": 0.05
+    },
+    {
+      "name": "ruffle",
+      "directory": "ruffle",
+      "sizeInBytes": 51941,
+      "sizeInMB": 0.05
+    },
+    {
+      "name": "2048",
+      "directory": "2048",
+      "sizeInBytes": 40362,
+      "sizeInMB": 0.04
+    },
+    {
+      "name": "xx142-b2.exe",
+      "directory": "xx142-b2.exe",
+      "sizeInBytes": 38634,
+      "sizeInMB": 0.04
+    },
+    {
+      "name": "fld",
+      "directory": "fld",
+      "sizeInBytes": 35963,
+      "sizeInMB": 0.03
+    },
+    {
+      "name": "funnyballgame",
+      "directory": "funnyballgame",
+      "sizeInBytes": 33307,
+      "sizeInMB": 0.03
+    },
+    {
+      "name": "tombofthemask",
+      "directory": "tombofthemask",
+      "sizeInBytes": 13071,
+      "sizeInMB": 0.01
+    },
+    {
+      "name": "dragonballdevolution",
+      "directory": "dragonballdevolution",
+      "sizeInBytes": 7475,
+      "sizeInMB": 0.01
+    },
+    {
+      "name": "off",
+      "directory": "off",
+      "sizeInBytes": 6418,
+      "sizeInMB": 0.01
+    }
+  ]
+}
