@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Friday Night Funkin",
+    "directory": "fridaynightfunkin",
+    "image": "fnf-icon.jpg",
+    "size": 319178313,
+    "sizeInMB": 304.39
+  },
+  {
+    "name": "Bloons Tower Defense 6",
+    "directory": "btd6",
+    "image": "uwu.png",
+    "size": 313016456,
+    "sizeInMB": 298.52
+  },
+  {
+    "name": "Virtual x86",
+    "directory": "v86",
+    "image": "favicon.ico",
+    "size": 206679649,
+    "sizeInMB": 197.11
+  },
+  {
+    "name": "Amazing Rope Police",
+    "directory": "amazing-rope-police",
+    "image": "splash.jpeg",
+    "size": 141436828,
+    "sizeInMB": 134.88
+  },
+  {
+    "name": "Drift Hunters",
+    "directory": "drifthunters",
+    "image": "icon.png",
+    "size": 141292912,
+    "sizeInMB": 134.75
+  },
+  {
+    "name": "Adventure Capitalist",
+    "directory": "adventure-capitalist",
+    "image": "logo.webp",
+    "size": 130927677,
+    "sizeInMB": 124.86
+  },
+  {
+    "name": "Pokemon",
+    "directory": "pokemon",
+    "image": "logo.jpg",
+    "size": 93439141,
+    "sizeInMB": 89.11
+  },
+  {
+    "name": "Crimson Fantasia",
+    "directory": "crimsonfantasia",
+    "image": "14qAOu.png",
+    "size": 81270473,
+    "sizeInMB": 77.51
+  },
+  {
+    "name": "webretro",
+    "directory": "webretro",
+    "image": "assets/icons/icon204.png",
+    "size": 81044871,
+    "sizeInMB": 77.29
+  },
+  {
+    "name": "Five Nights at Freddy's 4",
+    "directory": "fnaf4",
+    "image": "project/splash.webp",
+    "size": 76177277,
+    "sizeInMB": 72.65
+  },
+  {
+    "name": "Russian Car Driver",
+    "directory": "russiancardriver",
+    "image": "russian-car-driver.webp",
+    "size": 67157233,
+    "sizeInMB": 64.05
+  },
+  {
+    "name": "Funny Shooter 2",
+    "directory": "funnyshooter2",
+    "image": "894abba63a6b23fed823f404831f444f.jpeg",
+    "size": 66637066,
+    "sizeInMB": 63.55
+  },
+  {
+    "name": "osu!mania",
+    "directory": "osumania",
+    "image": "mania.jpg",
+    "size": 65941709,
+    "sizeInMB": 62.89
+  },
+  {
+    "name": "Idle Research",
+    "directory": "idleresearch",
+    "image": "cover-1660205761867.png",
+    "size": 64129946,
+    "sizeInMB": 61.16
+  },
+  {
+    "name": "Duck Life 6",
+    "directory": "ducklife6",
+    "image": "ducklife5.png",
+    "size": 60322321,
+    "sizeInMB": 57.53
+  },
+  {
+    "name": "Rocket League",
+    "directory": "rocketleague",
+    "image": "splash.webp",
+    "size": 60213160,
+    "sizeInMB": 57.42
+  },
+  {
+    "name": "Turbo Racing 3",
+    "image": "cover.svg",
+    "directory": "turboracing3",
+    "size": 59652641,
+    "sizeInMB": 56.89
+  },
+  {
+    "name": "osu!",
+    "directory": "osu",
+    "image": "icon.png",
+    "size": 58176189,
+    "sizeInMB": 55.48
+  },
+  {
+    "name": "Champion Island",
+    "directory": "championisland",
+    "image": "icon.png",
+    "size": 57467253,
+    "sizeInMB": 54.81
+  },
+  {
+    "name": "Townscaper",
+    "directory": "townscaper",
+    "image": "icon.png",
+    "size": 57015431,
+    "sizeInMB": 54.37
+  },
+  {
+    "name": "Geometry Dash Lite",
+    "directory": "gdlite",
+    "image": "logo.png",
+    "size": 54991069,
+    "sizeInMB": 52.44
+  },
+  {
+    "name": "Friday Night Funkin: Mid Fight Masses",
+    "directory": "fnfmidfight",
+    "image": "fnfmidfight.png",
+    "size": 54857726,
+    "sizeInMB": 52.32
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "directory": "fnaf",
+    "image": "splash.jpg",
+    "size": 53858516,
+    "sizeInMB": 51.36
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "directory": "fnaf2",
+    "image": "project/splash.webp",
+    "size": 51375162,
+    "sizeInMB": 49
+  },
+  {
+    "name": "Flappy Race",
+    "image": "cover.svg",
+    "directory": "flappyrace",
+    "size": 51335445,
+    "sizeInMB": 48.96
+  },
+  {
+    "name": "Madalin Cars",
+    "directory": "madalincars",
+    "image": "icon.png",
+    "size": 51205530,
+    "sizeInMB": 48.83
+  },
+  {
+    "name": "10 Minutes Till Dawn",
+    "directory": "10minutestilldawn",
+    "image": "splash.png",
+    "size": 50529049,
+    "sizeInMB": 48.19
+  },
+  {
+    "name": "Gladihoppers",
+    "image": "cover.svg",
+    "directory": "gladihoppers",
+    "size": 49765428,
+    "sizeInMB": 47.46
+  },
+  {
+    "name": "Burger and Frights",
+    "directory": "burgerandfrights",
+    "image": "icon.png",
+    "size": 45945670,
+    "sizeInMB": 43.82
+  },
+  {
+    "name": "Funny Mad Racing",
+    "directory": "funnymadracing",
+    "image": "logo.webp",
+    "size": 45671669,
+    "sizeInMB": 43.56
+  },
+  {
+    "name": "Superhot",
+    "directory": "superhot",
+    "image": "icon.png",
+    "size": 45514944,
+    "sizeInMB": 43.41
+  },
+  {
+    "name": "Pizza Tower",
+    "directory": "pizzatower",
+    "image": "images/menubg.png",
+    "size": 45263331,
+    "sizeInMB": 43.17
+  },
+  {
+    "name": "Boxing Physics 2",
+    "directory": "boxingphysics2",
+    "image": "icon.png",
+    "size": 43437769,
+    "sizeInMB": 41.43
+  },
+  {
+    "name": "House of Hazards",
+    "image": "favicon.ico",
+    "directory": "houseofhazards",
+    "size": 42678937,
+    "sizeInMB": 40.7
+  },
+  {
+    "name": "Paper Mario",
+    "directory": "papermario",
+    "image": "papermario.png",
+    "size": 42087603,
+    "sizeInMB": 40.14
+  },
+  {
+    "name": "Karlson",
+    "image": "cover.svg",
+    "directory": "karlson",
+    "size": 41358731,
+    "sizeInMB": 39.44
+  },
+  {
+    "name": "Rough Dino",
+    "image": "cover.svg",
+    "directory": "roughdino",
+    "size": 41109251,
+    "sizeInMB": 39.2
+  },
+  {
+    "name": "Geometry Dash Sky",
+    "image": "cover.svg",
+    "directory": "geodashsky",
+    "size": 38097598,
+    "sizeInMB": 36.33
+  },
+  {
+    "name": "Baldi's Basics",
+    "directory": "baldis-basics",
+    "image": "splash.png",
+    "size": 37524778,
+    "sizeInMB": 35.79
+  },
+  {
+    "name": "Temple Run 2",
+    "directory": "templerun2",
+    "image": "img/icons/icon-128x128.png",
+    "size": 35599159,
+    "sizeInMB": 33.95
+  },
+  {
+    "name": "Henry Stickmin - Fleeing the Complex",
+    "directory": "fleeingthecomplex",
+    "image": "flee.jpg",
+    "size": 34570608,
+    "sizeInMB": 32.97
+  },
+  {
+    "name": "Mario Party 3",
+    "directory": "marioparty3",
+    "image": "marioparty3.png",
+    "size": 34066181,
+    "sizeInMB": 32.49
+  },
+  {
+    "name": "Donkey Kong 64",
+    "directory": "donkeykong64",
+    "image": "donkeykong64.png",
+    "size": 34029870,
+    "sizeInMB": 32.45
+  },
+  {
+    "name": "Mario Party DS",
+    "directory": "mariopartyds",
+    "image": "mariopartyds.png",
+    "size": 33985896,
+    "sizeInMB": 32.41
+  },
+  {
+    "name": "Animal Crossing Wild World",
+    "directory": "animalcrossingwildworld",
+    "image": "animalcrossingwildworld.png",
+    "size": 33972155,
+    "sizeInMB": 32.4
+  },
+  {
+    "name": "Nintendogs",
+    "directory": "nintendogs",
+    "image": "nintendogs.png",
+    "size": 33938796,
+    "sizeInMB": 32.37
+  },
+  {
+    "name": "Mario Party 2",
+    "directory": "marioparty2",
+    "image": "marioparty2.png",
+    "size": 33928884,
+    "sizeInMB": 32.36
+  },
+  {
+    "name": "Mario Kart DS",
+    "directory": "mariokartds",
+    "image": "mariokartds.png",
+    "size": 33771981,
+    "sizeInMB": 32.21
+  },
+  {
+    "name": "Majora's Mask",
+    "directory": "majorasmask",
+    "image": "majorasmask.png",
+    "size": 33761388,
+    "sizeInMB": 32.2
+  },
+  {
+    "name": "Mario Party",
+    "directory": "marioparty",
+    "image": "marioparty.png",
+    "size": 33717060,
+    "sizeInMB": 32.16
+  },
+  {
+    "name": "Burrito Bison",
+    "directory": "burritobison",
+    "image": "Build/logo.png",
+    "size": 33691029,
+    "sizeInMB": 32.13
+  },
+  {
+    "name": "Legend of Zelda - Ocarina of Time",
+    "directory": "ocarinaoftime",
+    "image": "oc.jpg",
+    "size": 33605892,
+    "sizeInMB": 32.05
+  },
+  {
+    "name": "Cluster Rush",
+    "directory": "cluster-rush",
+    "image": "icon.jpg",
+    "size": 32441303,
+    "sizeInMB": 30.94
+  },
+  {
+    "name": "Five Nights at Freddy's 3",
+    "directory": "fnaf3",
+    "image": "project/splash.webp",
+    "size": 32370618,
+    "sizeInMB": 30.87
+  },
+  {
+    "name": "The Minions: Resurrection",
+    "image": "cover.svg",
+    "directory": "minion",
+    "size": 31468581,
+    "sizeInMB": 30.01
+  },
+  {
+    "name": "Vex 7",
+    "directory": "vex7",
+    "image": "icon.jpeg",
+    "size": 30826604,
+    "sizeInMB": 29.4
+  },
+  {
+    "name": "Thirty Dollar Website",
+    "directory": "thirtydollarwebsite",
+    "image": "assets/🗿.png",
+    "size": 30407203,
+    "sizeInMB": 29
+  },
+  {
+    "name": "Henry Stickmin - Infiltrating the Airship",
+    "directory": "infiltratingtheairship",
+    "image": "air.avif",
+    "size": 29792573,
+    "sizeInMB": 28.41
+  },
+  {
+    "name": "Duck Life 3",
+    "directory": "ducklife3",
+    "image": "ducklife3.png",
+    "size": 28255715,
+    "sizeInMB": 26.95
+  },
+  {
+    "name": "Rooftop Snipers 2",
+    "directory": "rooftopsnipers2",
+    "image": "icon.png",
+    "size": 27682832,
+    "sizeInMB": 26.4
+  }
+]

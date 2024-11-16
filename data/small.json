@@ -1,0 +1,1927 @@
+[
+  {
+    "name": "Cut The Rope",
+    "directory": "cuttherope",
+    "image": "icon.png",
+    "size": 26063524,
+    "sizeInMB": 24.86
+  },
+  {
+    "name": "Deepest Sword",
+    "image": "logo.png",
+    "directory": "deepestsword",
+    "size": 26039945,
+    "sizeInMB": 24.83
+  },
+  {
+    "name": "Soundboard",
+    "directory": "soundboard",
+    "image": "bleep.png",
+    "size": 25977867,
+    "sizeInMB": 24.77
+  },
+  {
+    "name": "Bob the Robber 2",
+    "directory": "bobtherobber2",
+    "image": "icon.png",
+    "size": 25405456,
+    "sizeInMB": 24.23
+  },
+  {
+    "name": "Vex 6",
+    "directory": "vex6",
+    "image": "icon.png",
+    "size": 24481079,
+    "sizeInMB": 23.35
+  },
+  {
+    "name": "Terri-Fried",
+    "image": "cover.svg",
+    "directory": "terrifried",
+    "size": 23775346,
+    "sizeInMB": 22.67
+  },
+  {
+    "name": "Super Mario 64",
+    "directory": "supermario64",
+    "image": "icon.png",
+    "size": 23624211,
+    "sizeInMB": 22.53
+  },
+  {
+    "name": "Dadish 3",
+    "directory": "dadish3",
+    "image": "splash.png",
+    "size": 23204007,
+    "sizeInMB": 22.13
+  },
+  {
+    "name": "Clicker Heroes",
+    "directory": "clickerheroes",
+    "image": "clicker-heroes.png",
+    "size": 22860973,
+    "sizeInMB": 21.8
+  },
+  {
+    "name": "Flippy Fish",
+    "directory": "flippyfish",
+    "image": "icon.png",
+    "size": 22817676,
+    "sizeInMB": 21.76
+  },
+  {
+    "name": "Karlson't",
+    "image": "cover.svg",
+    "directory": "karlsont",
+    "size": 21876598,
+    "sizeInMB": 20.86
+  },
+  {
+    "name": "Time Shooter",
+    "directory": "timeshooter1",
+    "image": "logo.png",
+    "size": 21627151,
+    "sizeInMB": 20.63
+  },
+  {
+    "name": "Hill Climb Racing 2",
+    "image": "cover.svg",
+    "directory": "hillclimbracing2",
+    "size": 21170738,
+    "sizeInMB": 20.19
+  },
+  {
+    "name": "Skibidi 1 v 100",
+    "directory": "skibiditoilet",
+    "image": "logo.png",
+    "size": 21141072,
+    "sizeInMB": 20.16
+  },
+  {
+    "name": "Papas Scooperia",
+    "directory": "papasscooperia",
+    "image": "papasscooperia.png",
+    "size": 20976966,
+    "sizeInMB": 20.01
+  },
+  {
+    "name": "Kerosene Client",
+    "image": "cover.svg",
+    "directory": "keroseneclient",
+    "size": 20935391,
+    "sizeInMB": 19.97
+  },
+  {
+    "name": "Jetpack Joyride",
+    "directory": "jetpackjoyride",
+    "image": "logo.jpeg",
+    "size": 20548187,
+    "sizeInMB": 19.6
+  },
+  {
+    "name": "HexGL",
+    "directory": "hexgl",
+    "image": "icon_128.png",
+    "size": 20421105,
+    "sizeInMB": 19.48
+  },
+  {
+    "name": "Bitlife",
+    "directory": "bitlife",
+    "image": "bitlife.png",
+    "size": 20371052,
+    "sizeInMB": 19.43
+  },
+  {
+    "name": "Gun Knight",
+    "image": "cover.svg",
+    "directory": "gunknight",
+    "size": 20291680,
+    "sizeInMB": 19.35
+  },
+  {
+    "name": "ovo",
+    "directory": "ovo",
+    "image": "ovo3.png",
+    "size": 20041125,
+    "sizeInMB": 19.11
+  },
+  {
+    "name": "Geometry Dash Remastered",
+    "image": "cover.svg",
+    "directory": "geodashrm",
+    "size": 20010795,
+    "sizeInMB": 19.08
+  },
+  {
+    "name": "justfall.lol",
+    "directory": "justfalllol",
+    "image": "unnamed.png",
+    "size": 19897308,
+    "sizeInMB": 18.98
+  },
+  {
+    "name": "A Dance of Fire & Ice",
+    "directory": "adofai",
+    "image": "splash.png",
+    "size": 19549667,
+    "sizeInMB": 18.64
+  },
+  {
+    "name": "n-gon",
+    "directory": "ngon",
+    "image": "favicon.ico",
+    "size": 18939331,
+    "sizeInMB": 18.06
+  },
+  {
+    "name": "Subway Surfers",
+    "directory": "subway-surfers-ny",
+    "image": "NewYorkIcon.png",
+    "size": 18921726,
+    "sizeInMB": 18.05
+  },
+  {
+    "name": "Fruit Ninja",
+    "directory": "fruitninja",
+    "image": "FruitNinjaTeaser.jpg",
+    "size": 18896989,
+    "sizeInMB": 18.02
+  },
+  {
+    "name": "Sandtrix",
+    "directory": "sandtrix",
+    "image": "assets/sprites/appicon.png",
+    "size": 18853058,
+    "sizeInMB": 17.98
+  },
+  {
+    "name": "Tunnel Rush",
+    "directory": "tunnelrush",
+    "image": "tunnel.jpg",
+    "size": 18753894,
+    "sizeInMB": 17.89
+  },
+  {
+    "name": "Funny Shooter",
+    "directory": "funnyshooter",
+    "image": "icon.jpeg",
+    "size": 18556793,
+    "sizeInMB": 17.7
+  },
+  {
+    "name": "Skibidi Toilet Attack",
+    "directory": "skibiditoiletattack",
+    "image": "logo.png",
+    "size": 18520884,
+    "sizeInMB": 17.66
+  },
+  {
+    "name": "Riddle Transfer 2",
+    "directory": "riddleschooltransfer2",
+    "image": "aUntitled.jpeg",
+    "size": 18364830,
+    "sizeInMB": 17.51
+  },
+  {
+    "name": "Tappy Plane",
+    "image": "cover.svg",
+    "directory": "tappyplane",
+    "size": 18317973,
+    "sizeInMB": 17.47
+  },
+  {
+    "name": "Last Horizon",
+    "directory": "lasthorizon",
+    "image": "wogo owo.jpg",
+    "size": 17698793,
+    "sizeInMB": 16.88
+  },
+  {
+    "name": "Super Mario 64 DS",
+    "directory": "supermario64ds",
+    "image": "supermario64ds.png",
+    "size": 17217721,
+    "sizeInMB": 16.42
+  },
+  {
+    "name": "CMM Client",
+    "image": "cmm.jpeg",
+    "directory": "cmm-client",
+    "size": 17155938,
+    "sizeInMB": 16.36
+  },
+  {
+    "name": "Banjo Kazooie",
+    "directory": "banjokazooie",
+    "image": "banjokazooie.png",
+    "size": 17104506,
+    "sizeInMB": 16.31
+  },
+  {
+    "name": "Super Smash Bros",
+    "directory": "supersmashbros",
+    "image": "logo.jpg",
+    "size": 16796568,
+    "sizeInMB": 16.02
+  },
+  {
+    "name": "Duck Life 4",
+    "directory": "ducklife4",
+    "image": "icon.png",
+    "size": 16598586,
+    "sizeInMB": 15.83
+  },
+  {
+    "name": "Duck Life 2",
+    "directory": "ducklife2",
+    "image": "ducklife2.png",
+    "size": 16577432,
+    "sizeInMB": 15.81
+  },
+  {
+    "name": "Mindustry",
+    "image": "cover.svg",
+    "directory": "mind",
+    "size": 16237706,
+    "sizeInMB": 15.49
+  },
+  {
+    "name": "Papas Sushiria",
+    "directory": "papassushiria",
+    "image": "papassushiria.png",
+    "size": 15813624,
+    "sizeInMB": 15.08
+  },
+  {
+    "name": "The Enchanted Cave 2",
+    "directory": "enchantedcave2",
+    "image": "icon.png",
+    "size": 15659790,
+    "sizeInMB": 14.93
+  },
+  {
+    "name": "Riddle Transfer",
+    "directory": "riddleschooltransfer",
+    "image": "Untitled.jpeg",
+    "size": 15653374,
+    "sizeInMB": 14.93
+  },
+  {
+    "name": "hole.io",
+    "directory": "holeio",
+    "image": "feature800x470.png",
+    "size": 15503399,
+    "sizeInMB": 14.79
+  },
+  {
+    "name": "Blood Tournament",
+    "directory": "bloodtournament",
+    "image": "blood-tournament.jpg",
+    "size": 15423119,
+    "sizeInMB": 14.71
+  },
+  {
+    "name": "Super Mario 63",
+    "image": "cover.svg",
+    "directory": "mario63",
+    "size": 15394547,
+    "sizeInMB": 14.68
+  },
+  {
+    "name": "Lazy Jump 3D",
+    "directory": "lazyjump3d",
+    "image": "icon.png",
+    "size": 15171476,
+    "sizeInMB": 14.47
+  },
+  {
+    "name": "Retro Bowl College",
+    "directory": "retrobowlcollege",
+    "image": "unnamed.png",
+    "size": 14962612,
+    "sizeInMB": 14.27
+  },
+  {
+    "name": "Monkey Mart",
+    "directory": "monkeymart",
+    "image": "unnamed.png",
+    "size": 14870950,
+    "sizeInMB": 14.18
+  },
+  {
+    "name": "Papas Bakeria",
+    "directory": "papasbakeria",
+    "image": "papasbakeria.png",
+    "size": 14780856,
+    "sizeInMB": 14.1
+  },
+  {
+    "name": "Henry Stickmin - Stealing the Diamond",
+    "directory": "stealingthediamond",
+    "image": "diamante.avif",
+    "size": 14603687,
+    "sizeInMB": 13.93
+  },
+  {
+    "name": "Riddle School 5",
+    "directory": "riddleschool5",
+    "image": "Untitled.jpeg",
+    "size": 14549609,
+    "sizeInMB": 13.88
+  },
+  {
+    "name": "Getaway Shooter",
+    "directory": "getawayshooter",
+    "image": "Untitled.jpeg",
+    "size": 13719958,
+    "sizeInMB": 13.08
+  },
+  {
+    "name": "Snow Rider 3D",
+    "directory": "snowrider3d",
+    "image": "snow.png",
+    "size": 13397818,
+    "sizeInMB": 12.78
+  },
+  {
+    "name": "Retro Bowl",
+    "directory": "retrobowl",
+    "image": "img/icon.jpg",
+    "size": 13209608,
+    "sizeInMB": 12.6
+  },
+  {
+    "name": "Duck Life 1",
+    "directory": "ducklife1",
+    "image": "ducklife1.png",
+    "size": 13145556,
+    "sizeInMB": 12.54
+  },
+  {
+    "name": "Among Us",
+    "directory": "amongus",
+    "image": "amgojs]_.png",
+    "size": 13122110,
+    "sizeInMB": 12.51
+  },
+  {
+    "name": "Cookie Clicker",
+    "directory": "cookieclicker",
+    "image": "img/perfectCookie.png",
+    "size": 13006582,
+    "sizeInMB": 12.4
+  },
+  {
+    "name": "Star Fox 64",
+    "directory": "starfox64",
+    "image": "starfox64.png",
+    "size": 12887660,
+    "sizeInMB": 12.29
+  },
+  {
+    "name": "Goldeneye 007",
+    "directory": "goldeneye",
+    "image": "goldeneye007.png",
+    "size": 12836772,
+    "sizeInMB": 12.24
+  },
+  {
+    "name": "Cut The Rope Holday",
+    "directory": "cuttherope-holiday",
+    "image": "Holiday_Gift.webp",
+    "size": 12695177,
+    "sizeInMB": 12.11
+  },
+  {
+    "name": "Papas Cheeseria",
+    "directory": "papascheeseria",
+    "image": "papascheeseria.png",
+    "size": 12667258,
+    "sizeInMB": 12.08
+  },
+  {
+    "name": "Papas Donuteria",
+    "directory": "papasdonuteria",
+    "image": "papasdonuteria.png",
+    "size": 12615635,
+    "sizeInMB": 12.03
+  },
+  {
+    "name": "Doge Miner",
+    "directory": "dogeminer",
+    "image": "img/dogeminer_300x300.png",
+    "size": 11480233,
+    "sizeInMB": 10.95
+  },
+  {
+    "name": "Chess",
+    "directory": "chess",
+    "image": "icon.png",
+    "size": 11436970,
+    "sizeInMB": 10.91
+  },
+  {
+    "name": "Age of War 2",
+    "image": "cover.svg",
+    "directory": "aow2",
+    "size": 11427645,
+    "sizeInMB": 10.9
+  },
+  {
+    "name": "Bloons Tower Defense 5",
+    "directory": "btd5",
+    "image": "wogo.png",
+    "size": 11419939,
+    "sizeInMB": 10.89
+  },
+  {
+    "name": "Papas Tacomia",
+    "directory": "papastacomia",
+    "image": "papastacomia.png",
+    "size": 11096395,
+    "sizeInMB": 10.58
+  },
+  {
+    "name": "Mario",
+    "directory": "mario",
+    "image": "icon.png",
+    "size": 11092839,
+    "sizeInMB": 10.58
+  },
+  {
+    "name": "Fancy Pants Adventures 2",
+    "directory": "fancypantsadventures2",
+    "image": "fpa2.avif",
+    "size": 11011347,
+    "sizeInMB": 10.5
+  },
+  {
+    "name": "Papas Pastaria",
+    "directory": "papaspastaria",
+    "image": "papaspastaria.png",
+    "size": 10911503,
+    "sizeInMB": 10.41
+  },
+  {
+    "name": "Totally Accurate Battle Simulator",
+    "directory": "tabs",
+    "image": "unnamed.png",
+    "size": 10767038,
+    "sizeInMB": 10.27
+  },
+  {
+    "name": "DOOM",
+    "image": "logo.png",
+    "directory": "doom",
+    "size": 10520485,
+    "sizeInMB": 10.03
+  },
+  {
+    "name": "Cell Machine",
+    "directory": "cell-machine",
+    "image": "img/icon.png",
+    "size": 10444465,
+    "sizeInMB": 9.96
+  },
+  {
+    "name": "Fireboy & Watergirl 1",
+    "directory": "fireboywatergirl",
+    "image": "icon.png",
+    "size": 10263694,
+    "sizeInMB": 9.79
+  },
+  {
+    "name": "Red Ball 3",
+    "directory": "redball3",
+    "image": "redball3.png",
+    "size": 10118140,
+    "sizeInMB": 9.65
+  },
+  {
+    "name": "Slope",
+    "directory": "slope",
+    "image": "slope4.jpeg",
+    "size": 10109657,
+    "sizeInMB": 9.64
+  },
+  {
+    "name": "The Final Earth 2",
+    "directory": "thefinalearth2",
+    "image": "icons/favicon.png",
+    "size": 9837972,
+    "sizeInMB": 9.38
+  },
+  {
+    "name": "Moto X3M Spooky",
+    "directory": "motox3m-spooky",
+    "image": "icon.png",
+    "size": 9763850,
+    "sizeInMB": 9.31
+  },
+  {
+    "name": "Henry Stickmin - Escaping the Prison",
+    "directory": "escapingtheprison",
+    "image": "pwison.avif",
+    "size": 9744978,
+    "sizeInMB": 9.29
+  },
+  {
+    "name": "Block Zappers 3",
+    "image": "logo.png",
+    "directory": "blockzappers",
+    "size": 9609717,
+    "sizeInMB": 9.16
+  },
+  {
+    "name": "Factory Balls Forever",
+    "directory": "factoryballsforever",
+    "image": "fac.png",
+    "size": 9455737,
+    "sizeInMB": 9.02
+  },
+  {
+    "name": "Time Shooter 2",
+    "directory": "timeshooter2",
+    "image": "ts2.jpg",
+    "size": 9448988,
+    "sizeInMB": 9.01
+  },
+  {
+    "name": "The Binding of Issac",
+    "image": "cover.svg",
+    "directory": "tboi",
+    "size": 9388238,
+    "sizeInMB": 8.95
+  },
+  {
+    "name": "Fireboy & Watergirl 2",
+    "directory": "fireboywatergirl2",
+    "image": "Untitled.jpeg",
+    "size": 9257434,
+    "sizeInMB": 8.83
+  },
+  {
+    "name": "Red Ball 4",
+    "directory": "redball4",
+    "image": "redball4.webp",
+    "size": 9223759,
+    "sizeInMB": 8.8
+  },
+  {
+    "name": "Fireboy & Watergirl 3",
+    "directory": "fireboywatergirl3",
+    "image": "icon.png",
+    "size": 9082475,
+    "sizeInMB": 8.66
+  },
+  {
+    "name": "Gun Mayhem 2",
+    "directory": "gunmayhem2",
+    "image": "icon.png",
+    "size": 8905677,
+    "sizeInMB": 8.49
+  },
+  {
+    "name": "Moto X3M Pool Party",
+    "directory": "motox3m-pool",
+    "image": "splash.jpg",
+    "size": 8901716,
+    "sizeInMB": 8.49
+  },
+  {
+    "name": "Fireboy & Watergirl 4",
+    "directory": "fireboywatergirl4",
+    "image": "300.jpg",
+    "size": 8890846,
+    "sizeInMB": 8.48
+  },
+  {
+    "name": "Super Smash Flash",
+    "directory": "supersmashflash",
+    "image": "ssf.jpg",
+    "size": 8848305,
+    "sizeInMB": 8.44
+  },
+  {
+    "name": "Time Shooter 3",
+    "directory": "timeshooter3",
+    "image": "logo.png",
+    "size": 8795561,
+    "sizeInMB": 8.39
+  },
+  {
+    "name": "Moto X3M Winter",
+    "directory": "motox3m-winter",
+    "image": "download.jpeg",
+    "size": 8731989,
+    "sizeInMB": 8.33
+  },
+  {
+    "name": "Doom 64",
+    "directory": "doom64",
+    "image": "doom64.png",
+    "size": 8672333,
+    "sizeInMB": 8.27
+  },
+  {
+    "name": "Guilty Gear",
+    "directory": "guiltygear",
+    "image": "ggx.jpg",
+    "size": 8636749,
+    "sizeInMB": 8.24
+  },
+  {
+    "name": "Metroid: Zero Mission",
+    "directory": "metroidzeromission",
+    "image": "zero.jpeg",
+    "size": 8634066,
+    "sizeInMB": 8.23
+  },
+  {
+    "name": "Rooftop Snipers",
+    "directory": "rooftopsnipers",
+    "image": "logo.png",
+    "size": 8611981,
+    "sizeInMB": 8.21
+  },
+  {
+    "name": "Basketball Stars",
+    "directory": "basketball-stars",
+    "image": "icon.png",
+    "size": 8462661,
+    "sizeInMB": 8.07
+  },
+  {
+    "name": "Moto X3M",
+    "directory": "motox3m",
+    "image": "splash.jpg",
+    "size": 8397376,
+    "sizeInMB": 8.01
+  },
+  {
+    "name": "Stickman Climb",
+    "directory": "stickmanclimb",
+    "image": "icon.avif",
+    "size": 8188671,
+    "sizeInMB": 7.81
+  },
+  {
+    "name": "Geometry Rash",
+    "directory": "geometryrash",
+    "image": "icon-114.png",
+    "size": 8069247,
+    "sizeInMB": 7.7
+  },
+  {
+    "name": "Papas Wingeria",
+    "directory": "papaswingeria",
+    "image": "papaswingeria.png",
+    "size": 8040458,
+    "sizeInMB": 7.67
+  },
+  {
+    "name": "Slope 2",
+    "directory": "slope2",
+    "image": "slope-2-logo.png",
+    "size": 7741245,
+    "sizeInMB": 7.38
+  },
+  {
+    "name": "Riddle School 3",
+    "directory": "riddleschool3",
+    "image": "riddle-school-3.webp",
+    "size": 7711486,
+    "sizeInMB": 7.35
+  },
+  {
+    "name": "Geometry Dash (Scratch)",
+    "directory": "geometrydash",
+    "image": "icon.png",
+    "size": 7708882,
+    "sizeInMB": 7.35
+  },
+  {
+    "name": "Dadish 2",
+    "directory": "dadish2",
+    "image": "favicon.png",
+    "size": 7597238,
+    "sizeInMB": 7.25
+  },
+  {
+    "name": "Dadish",
+    "directory": "dadish",
+    "image": "favicon.png",
+    "size": 7434281,
+    "sizeInMB": 7.09
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "directory": "badicecream3",
+    "image": "bad-ice-cream-3.png",
+    "size": 7356164,
+    "sizeInMB": 7.02
+  },
+  {
+    "name": "Gun Mayhem Redux",
+    "directory": "gunmayhemredux",
+    "image": "icon.png",
+    "size": 7280630,
+    "sizeInMB": 6.94
+  },
+  {
+    "name": "Drift Boss",
+    "directory": "drift-boss",
+    "image": "icon.png",
+    "size": 7268488,
+    "sizeInMB": 6.93
+  },
+  {
+    "name": "Thumb Fighter",
+    "directory": "thumbfighter",
+    "image": "thumbfighter.png",
+    "size": 7172799,
+    "sizeInMB": 6.84
+  },
+  {
+    "name": "Run 3",
+    "directory": "run3",
+    "image": "icon.jpeg",
+    "size": 7059834,
+    "sizeInMB": 6.73
+  },
+  {
+    "name": "Grand Truckismo",
+    "image": "cover.svg",
+    "directory": "grandtruckismo",
+    "size": 6983280,
+    "sizeInMB": 6.66
+  },
+  {
+    "name": "Chibi Knight",
+    "directory": "chibiknight",
+    "image": "icon.png",
+    "size": 6950679,
+    "sizeInMB": 6.63
+  },
+  {
+    "name": "Kick That Buddy",
+    "image": "cover.svg",
+    "directory": "kickthatbuddy",
+    "size": 6942091,
+    "sizeInMB": 6.62
+  },
+  {
+    "name": "Creeper Craft",
+    "image": "cover.svg",
+    "directory": "creepercraft",
+    "size": 6914436,
+    "sizeInMB": 6.59
+  },
+  {
+    "name": "Yohoho.io",
+    "image": "cover.svg",
+    "directory": "yohoho",
+    "size": 6875995,
+    "sizeInMB": 6.56
+  },
+  {
+    "name": "Papas Pancakeria",
+    "directory": "papaspancakeria",
+    "image": "papaspancakeria.png",
+    "size": 6845289,
+    "sizeInMB": 6.53
+  },
+  {
+    "name": "Crossy Road",
+    "directory": "crossyroad",
+    "image": "chicken.png",
+    "size": 6717795,
+    "sizeInMB": 6.41
+  },
+  {
+    "name": "We Become What We Behold",
+    "directory": "wbwwb",
+    "image": "wbwwb.webp",
+    "size": 6698488,
+    "sizeInMB": 6.39
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "directory": "badicecream2",
+    "image": "bad-ice-cream-2.png",
+    "size": 6563265,
+    "sizeInMB": 6.26
+  },
+  {
+    "name": "There Is No Game",
+    "directory": "thereisnogame",
+    "image": "icon-256.png",
+    "size": 6446258,
+    "sizeInMB": 6.15
+  },
+  {
+    "name": "Tube Jumpers",
+    "image": "cover.svg",
+    "directory": "tube-jumpers",
+    "size": 6366858,
+    "sizeInMB": 6.07
+  },
+  {
+    "name": "Death Run 3D",
+    "directory": "death-run-3d",
+    "image": "img/death.png",
+    "size": 6356997,
+    "sizeInMB": 6.06
+  },
+  {
+    "name": "Red Ball 4 Vol 2",
+    "directory": "redball4vol2",
+    "image": "redball4vol2.webp",
+    "size": 6229913,
+    "sizeInMB": 5.94
+  },
+  {
+    "name": "Riddle School 4",
+    "directory": "riddleschool4",
+    "image": "Untitled.jpeg",
+    "size": 6175997,
+    "sizeInMB": 5.89
+  },
+  {
+    "name": "TU-46",
+    "directory": "tu46",
+    "image": "tu-46.webp",
+    "size": 5994069,
+    "sizeInMB": 5.72
+  },
+  {
+    "name": "Gun Mayhem",
+    "directory": "gunmayhem",
+    "image": "icon.png",
+    "size": 5967600,
+    "sizeInMB": 5.69
+  },
+  {
+    "name": "Awesome Tanks",
+    "image": "cover.svg",
+    "directory": "awesometanks",
+    "size": 5908443,
+    "sizeInMB": 5.63
+  },
+  {
+    "name": "Zombocalypse",
+    "directory": "zombocalypse",
+    "image": "zombocalypse-2.webp",
+    "size": 5907295,
+    "sizeInMB": 5.63
+  },
+  {
+    "name": "Vex 4",
+    "directory": "vex4",
+    "image": "vex4.png",
+    "size": 5784716,
+    "sizeInMB": 5.52
+  },
+  {
+    "name": "Lows Adventures 2",
+    "directory": "lowsadventures2",
+    "image": "icon.png",
+    "size": 5757739,
+    "sizeInMB": 5.49
+  },
+  {
+    "name": "Vex 5",
+    "directory": "vex5",
+    "image": "icon.png",
+    "size": 5677289,
+    "sizeInMB": 5.41
+  },
+  {
+    "name": "Super Meat Boy",
+    "directory": "supermeatboy",
+    "image": "icon.png",
+    "size": 5553405,
+    "sizeInMB": 5.3
+  },
+  {
+    "name": "Duck Life 5",
+    "directory": "ducklife5",
+    "image": "ducklife5.png",
+    "size": 5481787,
+    "sizeInMB": 5.23
+  },
+  {
+    "name": "Red Ball 4 Vol 3",
+    "directory": "redball4vol3",
+    "image": "redball4vol3.webp",
+    "size": 5447305,
+    "sizeInMB": 5.19
+  },
+  {
+    "name": "A Dark Room",
+    "directory": "adarkroom",
+    "image": "favicon.ico",
+    "size": 5420121,
+    "sizeInMB": 5.17
+  },
+  {
+    "name": "Learn to Fly 2",
+    "directory": "learntofly2",
+    "image": "logo.jpg",
+    "size": 5391674,
+    "sizeInMB": 5.14
+  },
+  {
+    "name": "Nut Simulator",
+    "directory": "nutsim",
+    "image": "images/icon.png",
+    "size": 5391358,
+    "sizeInMB": 5.14
+  },
+  {
+    "name": "Papas Freezeria",
+    "directory": "papasfreezeria",
+    "image": "images.jpeg",
+    "size": 5314939,
+    "sizeInMB": 5.07
+  },
+  {
+    "name": "Bad Ice Cream",
+    "directory": "badicecream",
+    "image": "bad-ice-cream.png",
+    "size": 5279917,
+    "sizeInMB": 5.04
+  },
+  {
+    "name": "Basket Bros",
+    "directory": "basketbros",
+    "image": "thumb.jpg",
+    "size": 5210036,
+    "sizeInMB": 4.97
+  },
+  {
+    "name": "Driving Force 4",
+    "image": "cover.svg",
+    "directory": "driving",
+    "size": 5109914,
+    "sizeInMB": 4.87
+  },
+  {
+    "name": "Vex 3",
+    "directory": "vex3",
+    "image": "icon.png",
+    "size": 5099374,
+    "sizeInMB": 4.86
+  },
+  {
+    "name": "The Impossible Quiz",
+    "directory": "theimpossiblequiz",
+    "image": "tiq.avif",
+    "size": 4870847,
+    "sizeInMB": 4.65
+  },
+  {
+    "name": "Halloween 2016",
+    "directory": "halloween2016",
+    "image": "logo.png",
+    "size": 4840591,
+    "sizeInMB": 4.62
+  },
+  {
+    "name": "13 Days of Hell",
+    "image": "cover.svg",
+    "directory": "13",
+    "size": 4801948,
+    "sizeInMB": 4.58
+  },
+  {
+    "name": "Putin on the Ritz",
+    "image": "cover.svg",
+    "directory": "ritz",
+    "size": 4791087,
+    "sizeInMB": 4.57
+  },
+  {
+    "name": "Boxing Random",
+    "directory": "boxingrandom",
+    "image": "512x512.jpg",
+    "size": 4761333,
+    "sizeInMB": 4.54
+  },
+  {
+    "name": "Wordle Bot",
+    "directory": "wordlebot",
+    "image": "icon.png",
+    "size": 4681814,
+    "sizeInMB": 4.46
+  },
+  {
+    "name": "2D Rocket League",
+    "directory": "2drocketleague",
+    "image": "unnamed.png",
+    "size": 4677879,
+    "sizeInMB": 4.46
+  },
+  {
+    "name": "Pandemic 2",
+    "directory": "pandemic2",
+    "image": "pan2.webp",
+    "size": 4422540,
+    "sizeInMB": 4.22
+  },
+  {
+    "name": "Happy Wheels",
+    "directory": "happywheels",
+    "image": "Untitled.jpeg",
+    "size": 4414897,
+    "sizeInMB": 4.21
+  },
+  {
+    "name": "Tiny Fishing",
+    "directory": "tinyfishing",
+    "image": "thumb.png",
+    "size": 4371613,
+    "sizeInMB": 4.17
+  },
+  {
+    "name": "Vex 2",
+    "directory": "vex2",
+    "image": "icon.png",
+    "size": 4363299,
+    "sizeInMB": 4.16
+  },
+  {
+    "name": "Splash Dash Racing",
+    "image": "cover.svg",
+    "directory": "splashanddash",
+    "size": 4209127,
+    "sizeInMB": 4.01
+  },
+  {
+    "name": "Knife Hit",
+    "directory": "knifehit",
+    "image": "icon.png",
+    "size": 4067537,
+    "sizeInMB": 3.88
+  },
+  {
+    "name": "Vex",
+    "directory": "vex",
+    "image": "icon.png",
+    "size": 4038741,
+    "sizeInMB": 3.85
+  },
+  {
+    "name": "Stickman Hook",
+    "directory": "stickman-hook",
+    "image": "icon.jpg",
+    "size": 3986754,
+    "sizeInMB": 3.8
+  },
+  {
+    "name": "Stickman Boost",
+    "directory": "stickmanboost",
+    "image": "base/img1.jpg",
+    "size": 3812967,
+    "sizeInMB": 3.64
+  },
+  {
+    "name": "Stickman Golf",
+    "directory": "stickmangolf",
+    "image": "gold.png",
+    "size": 3759876,
+    "sizeInMB": 3.59
+  },
+  {
+    "name": "Color Switch",
+    "directory": "colorswitch",
+    "image": "colorswitch.png",
+    "size": 3714502,
+    "sizeInMB": 3.54
+  },
+  {
+    "name": "Pong",
+    "directory": "pong",
+    "image": "cover.svg",
+    "size": 3704957,
+    "sizeInMB": 3.53
+  },
+  {
+    "name": "Little Alchemy",
+    "directory": "littlealchemy",
+    "image": "images/192-alpha.png",
+    "size": 3696022,
+    "sizeInMB": 3.52
+  },
+  {
+    "name": "Age of War",
+    "directory": "ageofwar",
+    "image": "warofage.jpg",
+    "size": 3695388,
+    "sizeInMB": 3.52
+  },
+  {
+    "name": "60s Burger Run",
+    "directory": "60sburgerrun",
+    "image": "icon.png",
+    "size": 3682473,
+    "sizeInMB": 3.51
+  },
+  {
+    "name": "Commodore 64 Clicker",
+    "directory": "commodoreclicker",
+    "image": "test.jpg",
+    "size": 3626345,
+    "sizeInMB": 3.46
+  },
+  {
+    "name": "Monster Tracks",
+    "directory": "monstertracks",
+    "image": "webapp/cover.jpg",
+    "size": 3589903,
+    "sizeInMB": 3.42
+  },
+  {
+    "name": "Drive Mad",
+    "directory": "drivemad",
+    "image": "icons/icon-128.png",
+    "size": 3571988,
+    "sizeInMB": 3.41
+  },
+  {
+    "name": "Theme Hotel",
+    "directory": "themehotel",
+    "image": "themehotel.png",
+    "size": 3536842,
+    "sizeInMB": 3.37
+  },
+  {
+    "name": "Basket Random",
+    "directory": "basketrandom",
+    "image": "test.png",
+    "size": 3486342,
+    "sizeInMB": 3.32
+  },
+  {
+    "name": "Game Maker Doodle",
+    "directory": "gamemaker",
+    "image": "images.jpeg",
+    "size": 3486065,
+    "sizeInMB": 3.32
+  },
+  {
+    "name": "Gloom",
+    "image": "cover.svg",
+    "directory": "gloom",
+    "size": 3448271,
+    "sizeInMB": 3.29
+  },
+  {
+    "name": "state.io",
+    "directory": "stateio",
+    "image": "icon.webp",
+    "size": 3370110,
+    "sizeInMB": 3.21
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "directory": "achieveunlocked2",
+    "image": "icon.png",
+    "size": 3343700,
+    "sizeInMB": 3.19
+  },
+  {
+    "name": "Bloons Tower Defense 4",
+    "directory": "btd4",
+    "image": "logo.jpg",
+    "size": 3285706,
+    "sizeInMB": 3.13
+  },
+  {
+    "name": "Soccer Random",
+    "directory": "soccerrandom",
+    "image": "test.png",
+    "size": 3247246,
+    "sizeInMB": 3.1
+  },
+  {
+    "name": "Shape Shipper",
+    "image": "cover.svg",
+    "directory": "shape",
+    "size": 3239960,
+    "sizeInMB": 3.09
+  },
+  {
+    "name": "Henry Stickmin - Breaking the Bank",
+    "directory": "breakingthebank",
+    "image": "balling.avif",
+    "size": 3190175,
+    "sizeInMB": 3.04
+  },
+  {
+    "name": "Slope Ball",
+    "directory": "slope-ball",
+    "image": "icon.jpg",
+    "size": 3165123,
+    "sizeInMB": 3.02
+  },
+  {
+    "name": "Idle Breakout",
+    "directory": "idlebreakout",
+    "image": "image.png",
+    "size": 3162751,
+    "sizeInMB": 3.02
+  },
+  {
+    "name": "Learn to Fly Idle",
+    "directory": "learntoflyidle",
+    "image": "icon.jpg",
+    "size": 3134962,
+    "sizeInMB": 2.99
+  },
+  {
+    "name": "Papas Burgeria",
+    "directory": "papasburgeria",
+    "image": "images.jpeg",
+    "size": 3098041,
+    "sizeInMB": 2.95
+  },
+  {
+    "name": "Bike Champ 2",
+    "image": "logo.jpg",
+    "directory": "bikechamp2",
+    "size": 3007774,
+    "sizeInMB": 2.87
+  },
+  {
+    "name": "Recoil",
+    "image": "cover.svg",
+    "directory": "recoil",
+    "size": 2991822,
+    "sizeInMB": 2.85
+  },
+  {
+    "name": "TU-95",
+    "directory": "tu95",
+    "image": "tu-95.webp",
+    "size": 2864549,
+    "sizeInMB": 2.73
+  },
+  {
+    "name": "Wordle",
+    "directory": "wordle",
+    "image": "icon.png",
+    "size": 2862432,
+    "sizeInMB": 2.73
+  },
+  {
+    "name": "Papas Pizzeria",
+    "directory": "papaspizzeria",
+    "image": "images.jpeg",
+    "size": 2857977,
+    "sizeInMB": 2.73
+  },
+  {
+    "name": "Fancy Pants Adventures",
+    "directory": "fancypantsadventures",
+    "image": "fpa.webp",
+    "size": 2746889,
+    "sizeInMB": 2.62
+  },
+  {
+    "name": "Bad Time Simulator",
+    "directory": "badtimesimulator",
+    "image": "icon-114.png",
+    "size": 2685501,
+    "sizeInMB": 2.56
+  },
+  {
+    "name": "Achievement Unlocked",
+    "directory": "achieveunlocked",
+    "image": "icon.png",
+    "size": 2504437,
+    "sizeInMB": 2.39
+  },
+  {
+    "name": "Bad Piggies",
+    "directory": "badpiggies",
+    "image": "badpiggies.png",
+    "size": 2486762,
+    "sizeInMB": 2.37
+  },
+  {
+    "name": "The Heist",
+    "image": "cover.svg",
+    "directory": "heist",
+    "size": 2227724,
+    "sizeInMB": 2.12
+  },
+  {
+    "name": "Helix Jump",
+    "directory": "helixjump",
+    "image": "gameIcon.png",
+    "size": 2222643,
+    "sizeInMB": 2.12
+  },
+  {
+    "name": "Bike Champ",
+    "image": "logo.png",
+    "directory": "bikechamp",
+    "size": 2186872,
+    "sizeInMB": 2.09
+  },
+  {
+    "name": "Windows 98",
+    "image": "cover.svg",
+    "directory": "windows98",
+    "size": 2186146,
+    "sizeInMB": 2.08
+  },
+  {
+    "name": "Hill Climb Racing",
+    "image": "cover.svg",
+    "directory": "hillclimbracing",
+    "size": 2180827,
+    "sizeInMB": 2.08
+  },
+  {
+    "name": "Gold Digger FRVR",
+    "directory": "golddiggerfrvr",
+    "image": "images.jpeg",
+    "size": 2043122,
+    "sizeInMB": 1.95
+  },
+  {
+    "name": "Counter Strike: DS",
+    "image": "cover.svg",
+    "directory": "cds",
+    "size": 2017295,
+    "sizeInMB": 1.92
+  },
+  {
+    "name": "Pandemic",
+    "directory": "pandemic",
+    "image": "sddefault.jpg",
+    "size": 1921051,
+    "sizeInMB": 1.83
+  },
+  {
+    "name": "This Is The Only Level 2",
+    "directory": "thisistheonlylevel2",
+    "image": "icon.png",
+    "size": 1878986,
+    "sizeInMB": 1.79
+  },
+  {
+    "name": "The Impossible Game",
+    "directory": "theimpossiblegame",
+    "image": "image.jpg",
+    "size": 1785848,
+    "sizeInMB": 1.7
+  },
+  {
+    "name": "Rise Higher",
+    "directory": "risehigher",
+    "image": "media/graphics/promo/Icons/128x128.png",
+    "size": 1773640,
+    "sizeInMB": 1.69
+  },
+  {
+    "name": "Drift Mania",
+    "image": "cover.svg",
+    "directory": "drift",
+    "size": 1738664,
+    "sizeInMB": 1.66
+  },
+  {
+    "name": "Riddle School 2",
+    "directory": "riddleschool2",
+    "image": "icon.png",
+    "size": 1677432,
+    "sizeInMB": 1.6
+  },
+  {
+    "name": "Flappy Bird",
+    "directory": "flappybird",
+    "image": "icon.png",
+    "size": 1625916,
+    "sizeInMB": 1.55
+  },
+  {
+    "name": "Grand Theft Grotto",
+    "image": "cover.svg",
+    "directory": "gtg",
+    "size": 1621491,
+    "sizeInMB": 1.55
+  },
+  {
+    "name": "Line Rider",
+    "directory": "linerider",
+    "image": "boosh.png",
+    "size": 1550288,
+    "sizeInMB": 1.48
+  },
+  {
+    "name": "Celeste",
+    "directory": "celeste",
+    "image": "icon.png",
+    "size": 1542937,
+    "sizeInMB": 1.47
+  },
+  {
+    "name": "Territorial.io",
+    "directory": "territorialio",
+    "image": "territorialio.png",
+    "size": 1529688,
+    "sizeInMB": 1.46
+  },
+  {
+    "name": "Hextris",
+    "directory": "hextris",
+    "image": "images/icons/apple-touch-152.png",
+    "size": 1519221,
+    "sizeInMB": 1.45
+  },
+  {
+    "name": "Geometry Meltdown",
+    "image": "cover.svg",
+    "directory": "geomelt",
+    "size": 1470740,
+    "sizeInMB": 1.4
+  },
+  {
+    "name": "Bloons Tower Defense 3",
+    "directory": "btd3",
+    "image": "icon.png",
+    "size": 1462284,
+    "sizeInMB": 1.39
+  },
+  {
+    "name": "1v1.lol",
+    "directory": "1v1lol",
+    "image": "splash.png",
+    "size": 1378699,
+    "sizeInMB": 1.31
+  },
+  {
+    "name": "Watermelon Game",
+    "directory": "watermelongame",
+    "image": "assets/sprites/tittle.png",
+    "size": 1366894,
+    "sizeInMB": 1.3
+  },
+  {
+    "name": "This Is The Only Level",
+    "directory": "thisistheonlylevel",
+    "image": "logo.png",
+    "size": 1332947,
+    "sizeInMB": 1.27
+  },
+  {
+    "name": "Cubefield",
+    "directory": "cubefield",
+    "image": "assets/unnamed.png",
+    "size": 1288757,
+    "sizeInMB": 1.23
+  },
+  {
+    "name": "Tetris",
+    "directory": "tetris",
+    "image": "icon.png",
+    "size": 1151597,
+    "sizeInMB": 1.1
+  },
+  {
+    "name": "CircloO",
+    "directory": "circloo",
+    "image": "icon.png",
+    "size": 1038337,
+    "sizeInMB": 0.99
+  },
+  {
+    "name": "Learn to Fly",
+    "directory": "learntofly",
+    "image": "icon.png",
+    "size": 961103,
+    "sizeInMB": 0.92
+  },
+  {
+    "name": "WebGL Fluid Sim",
+    "directory": "fluidsim",
+    "image": "icon.png",
+    "size": 956208,
+    "sizeInMB": 0.91
+  },
+  {
+    "name": "Red Ball 1",
+    "image": "cover.svg",
+    "directory": "redball",
+    "size": 936467,
+    "sizeInMB": 0.89
+  },
+  {
+    "name": "Run 2",
+    "directory": "run2",
+    "image": "icon.jpg",
+    "size": 915369,
+    "sizeInMB": 0.87
+  },
+  {
+    "name": "Weave Silk",
+    "directory": "weavesilk",
+    "image": "icon.png",
+    "size": 913845,
+    "sizeInMB": 0.87
+  },
+  {
+    "name": "Geometry Jump",
+    "image": "cover.svg",
+    "directory": "geojump",
+    "size": 864475,
+    "sizeInMB": 0.82
+  },
+  {
+    "name": "Bloons Tower Defense 2",
+    "directory": "btd2",
+    "image": "logo.webp",
+    "size": 792887,
+    "sizeInMB": 0.76
+  },
+  {
+    "name": "Worlds Hardest Game",
+    "directory": "worldshardestgame",
+    "image": "icon.png",
+    "size": 749458,
+    "sizeInMB": 0.71
+  },
+  {
+    "name": "Run",
+    "directory": "run",
+    "image": "icon.jpeg",
+    "size": 743764,
+    "sizeInMB": 0.71
+  },
+  {
+    "name": "paper.io",
+    "directory": "paperio",
+    "image": "icon.png",
+    "size": 719431,
+    "sizeInMB": 0.69
+  },
+  {
+    "name": "Sandboxels",
+    "image": "cover.svg",
+    "directory": "box",
+    "size": 668637,
+    "sizeInMB": 0.64
+  },
+  {
+    "name": "Riddle School",
+    "directory": "riddleschool",
+    "image": "RiddleSchool2.png",
+    "size": 662663,
+    "sizeInMB": 0.63
+  },
+  {
+    "name": "Pacman",
+    "directory": "pacman",
+    "image": "icon.png",
+    "size": 659826,
+    "sizeInMB": 0.63
+  },
+  {
+    "name": "Worlds Hardest Game 2",
+    "directory": "worldhardestgame2",
+    "image": "the-worlds-hardest-game-2.jpg",
+    "size": 645680,
+    "sizeInMB": 0.62
+  },
+  {
+    "name": "Stack",
+    "directory": "stack",
+    "image": "icon.png",
+    "size": 628428,
+    "sizeInMB": 0.6
+  },
+  {
+    "name": "The Oregon Trail",
+    "image": "cover.svg",
+    "directory": "oregon",
+    "size": 618463,
+    "sizeInMB": 0.59
+  },
+  {
+    "name": "Bit Planes",
+    "directory": "bit-planes",
+    "image": "bitplanes.png",
+    "size": 603504,
+    "sizeInMB": 0.58
+  },
+  {
+    "name": "CSGO Case Clicker",
+    "directory": "csgoclicker",
+    "image": "images/case1.png",
+    "size": 597503,
+    "sizeInMB": 0.57
+  },
+  {
+    "name": "Bloons Tower Defense",
+    "directory": "btd",
+    "image": "logo.webp",
+    "size": 538072,
+    "sizeInMB": 0.51
+  },
+  {
+    "name": "Avalanche",
+    "directory": "avalanche",
+    "image": "icon.png",
+    "size": 534986,
+    "sizeInMB": 0.51
+  },
+  {
+    "name": "Connect Four",
+    "image": "cover.svg",
+    "directory": "c4",
+    "size": 461152,
+    "sizeInMB": 0.44
+  },
+  {
+    "name": "Universal Paperclips",
+    "directory": "universal-paperclips",
+    "image": "universal-paperclips.png",
+    "size": 441623,
+    "sizeInMB": 0.42
+  },
+  {
+    "name": "Star Clicker",
+    "image": "cover.svg",
+    "directory": "star",
+    "size": 418718,
+    "sizeInMB": 0.4
+  },
+  {
+    "name": "Wall Smash",
+    "directory": "wallsmash",
+    "image": "icon.png",
+    "size": 418199,
+    "sizeInMB": 0.4
+  },
+  {
+    "name": "Sprinter",
+    "directory": "sprinter",
+    "image": "icon.jpeg",
+    "size": 416738,
+    "sizeInMB": 0.4
+  },
+  {
+    "name": "Tron",
+    "directory": "tron",
+    "image": "icon.png",
+    "size": 315268,
+    "sizeInMB": 0.3
+  },
+  {
+    "name": "1 on 1 Soccer",
+    "directory": "1on1soccer",
+    "image": "logo.jpg",
+    "size": 307629,
+    "sizeInMB": 0.29
+  },
+  {
+    "name": "Doodle Jump",
+    "directory": "doodlejump",
+    "image": "icon.png",
+    "size": 300901,
+    "sizeInMB": 0.29
+  },
+  {
+    "name": "Spank the Monkey",
+    "image": "cover.svg",
+    "directory": "spankthemonkey",
+    "size": 274168,
+    "sizeInMB": 0.26
+  },
+  {
+    "name": "Flappy Copter",
+    "image": "cover.svg",
+    "directory": "flappycopter",
+    "size": 265745,
+    "sizeInMB": 0.25
+  },
+  {
+    "name": "I Wanna Be Thy Copy",
+    "directory": "iwbtc",
+    "image": "icon.png",
+    "size": 257486,
+    "sizeInMB": 0.25
+  },
+  {
+    "name": "Factory Balls",
+    "directory": "factoryballs",
+    "image": "fac.png",
+    "size": 253500,
+    "sizeInMB": 0.24
+  },
+  {
+    "name": "Solitaire",
+    "image": "cover.svg",
+    "directory": "solitaire",
+    "size": 217728,
+    "sizeInMB": 0.21
+  },
+  {
+    "name": "Snake",
+    "directory": "snake",
+    "image": "snake.png",
+    "size": 192978,
+    "sizeInMB": 0.18
+  },
+  {
+    "name": "Minesweeper",
+    "image": "cover.svg",
+    "directory": "minesweeper",
+    "size": 179531,
+    "sizeInMB": 0.17
+  },
+  {
+    "name": "Sand Game",
+    "directory": "sand",
+    "image": "icon.png",
+    "size": 168630,
+    "sizeInMB": 0.16
+  },
+  {
+    "name": "Pool",
+    "image": "cover.svg",
+    "directory": "pool",
+    "size": 167508,
+    "sizeInMB": 0.16
+  },
+  {
+    "name": "Simon",
+    "image": "cover.svg",
+    "directory": "simon",
+    "size": 151161,
+    "sizeInMB": 0.14
+  },
+  {
+    "name": "Offline Paradise",
+    "directory": "offlineparadise",
+    "image": "icon.png",
+    "size": 121361,
+    "sizeInMB": 0.12
+  },
+  {
+    "name": "Fort@dmin",
+    "image": "cover.svg",
+    "directory": "fort",
+    "size": 119560,
+    "sizeInMB": 0.11
+  },
+  {
+    "name": "Frogger",
+    "image": "cover.svg",
+    "directory": "frogger",
+    "size": 118635,
+    "sizeInMB": 0.11
+  },
+  {
+    "name": "Dante",
+    "directory": "dante",
+    "image": "icon.png",
+    "size": 112792,
+    "sizeInMB": 0.11
+  },
+  {
+    "name": "Dino",
+    "directory": "dino",
+    "image": "icon.png",
+    "size": 108928,
+    "sizeInMB": 0.1
+  },
+  {
+    "name": "POOM",
+    "image": "cover.svg",
+    "directory": "poom",
+    "size": 104618,
+    "sizeInMB": 0.1
+  },
+  {
+    "name": "CrossNRoad",
+    "image": "cover.svg",
+    "directory": "crossnroad",
+    "size": 91507,
+    "sizeInMB": 0.09
+  },
+  {
+    "name": "Racer",
+    "image": "cover.svg",
+    "directory": "racer",
+    "size": 83967,
+    "sizeInMB": 0.08
+  },
+  {
+    "name": "Minecraft Games",
+    "image": "cover.svg",
+    "directory": "eaglercraft",
+    "size": 82281,
+    "sizeInMB": 0.08
+  },
+  {
+    "name": "Copter",
+    "image": "cover.svg",
+    "directory": "copter",
+    "size": 69250,
+    "sizeInMB": 0.07
+  },
+  {
+    "name": "Adventure",
+    "image": "cover.svg",
+    "directory": "adventure",
+    "size": 57213,
+    "sizeInMB": 0.05
+  },
+  {
+    "name": "2048",
+    "directory": "2048",
+    "image": "icon.png",
+    "size": 40362,
+    "sizeInMB": 0.04
+  },
+  {
+    "name": "xx142-b2.exe",
+    "directory": "xx142-b2.exe",
+    "image": "icon.png",
+    "size": 38634,
+    "sizeInMB": 0.04
+  },
+  {
+    "name": "Flappy Dino",
+    "image": "cover.svg",
+    "directory": "fld",
+    "size": 35963,
+    "sizeInMB": 0.03
+  },
+  {
+    "name": "Funny Ball Game",
+    "directory": "funnyballgame",
+    "image": "ball.jpg",
+    "size": 33307,
+    "sizeInMB": 0.03
+  },
+  {
+    "name": "Tomb of The Mask",
+    "image": "cover.svg",
+    "directory": "tombofthemask",
+    "size": 13071,
+    "sizeInMB": 0.01
+  },
+  {
+    "name": "Dragon Ball Devolution",
+    "directory": "dragonballdevolution",
+    "image": "images.jpeg",
+    "size": 7475,
+    "sizeInMB": 0.01
+  }
+]

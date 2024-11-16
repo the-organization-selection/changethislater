@@ -1,0 +1,74 @@
+
+Large Games Removal Report
+11/16/2024, 1:06:24 PM
+
+Summary:
+- Successfully removed: 60 games
+- Failed to remove: 0 games
+- Not found: 0 games
+
+Successfully Removed:
+- fridaynightfunkin
+- btd6
+- v86
+- amazing-rope-police
+- drifthunters
+- adventure-capitalist
+- pokemon
+- crimsonfantasia
+- webretro
+- fnaf4
+- russiancardriver
+- funnyshooter2
+- osumania
+- idleresearch
+- ducklife6
+- rocketleague
+- turboracing3
+- osu
+- championisland
+- townscaper
+- gdlite
+- fnfmidfight
+- fnaf
+- fnaf2
+- flappyrace
+- madalincars
+- 10minutestilldawn
+- gladihoppers
+- burgerandfrights
+- funnymadracing
+- superhot
+- pizzatower
+- boxingphysics2
+- houseofhazards
+- papermario
+- karlson
+- roughdino
+- geodashsky
+- baldis-basics
+- templerun2
+- fleeingthecomplex
+- marioparty3
+- donkeykong64
+- mariopartyds
+- animalcrossingwildworld
+- nintendogs
+- marioparty2
+- mariokartds
+- majorasmask
+- marioparty
+- burritobison
+- ocarinaoftime
+- cluster-rush
+- fnaf3
+- minion
+- vex7
+- thirtydollarwebsite
+- infiltratingtheairship
+- ducklife3
+- rooftopsnipers2
+
+
+
+
