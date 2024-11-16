@@ -1,4 +1,3 @@
-// functions/_middleware.js
 const LARGE_GAMES = new Set([
   'fridaynightfunkin',
   'btd6',
@@ -65,50 +64,59 @@ const LARGE_GAMES = new Set([
 export async function onRequest({ request, env, next }) {
   const url = new URL(request.url);
   const path = url.pathname;
-
-  // Add debug logging
-  console.log(`Processing request for: ${path}`);
+  
+  // Debug log the request
+  console.log('Request URL:', url.toString());
+  console.log('Request path:', path);
 
   // Check if this is a request for a game file
   if (path.startsWith('/semag/')) {
     // Extract the game directory name
     const gameDir = path.split('/')[2];
-    
-    console.log(`Game directory: ${gameDir}`);
-    console.log(`Is large game: ${LARGE_GAMES.has(gameDir)}`);
+    console.log('Game directory:', gameDir);
+    console.log('Is large game:', LARGE_GAMES.has(gameDir));
 
     // If this is a large game, serve from R2
     if (LARGE_GAMES.has(gameDir)) {
       try {
         // Remove leading slash for R2 key
         const r2Key = path.substring(1);
-        console.log(`Fetching from R2: ${r2Key}`);
-        
+        console.log('Fetching from R2:', r2Key);
+
+        // Check if the bucket exists
+        if (!env.GAMES) {
+          console.error('R2 bucket not found in environment');
+          return next(); // Fall back to Pages if bucket isn't configured
+        }
+
         const obj = await env.GAMES.get(r2Key);
+        console.log('R2 response:', obj ? 'Found' : 'Not found');
 
         if (obj === null) {
-          console.log(`File not found in R2: ${r2Key}`);
-          return new Response('Game file not found', { status: 404 });
+          console.log('File not found in R2:', r2Key);
+          return next(); // Try serving from Pages if not in R2
         }
 
         // Get content type from object metadata or infer from extension
         const contentType = obj.httpMetadata?.contentType || getContentType(path);
-        console.log(`Serving ${r2Key} with content-type: ${contentType}`);
+        console.log('Serving with content-type:', contentType);
 
         // Return the file from R2 with proper headers
         return new Response(obj.body, {
           headers: {
             'content-type': contentType,
             'cache-control': 'public, max-age=31536000',
-            'access-control-allow-origin': '*'
+            'access-control-allow-origin': '*',
+            'x-served-from': 'r2' // Debug header to confirm source
           }
         });
       } catch (error) {
-        console.error(`R2 fetch error for ${path}:`, error);
-        return new Response('Error fetching game file', { status: 500 });
+        console.error('R2 fetch error:', error);
+        // Fall back to Pages on error
+        return next();
       }
     } else {
-      console.log(`Serving ${gameDir} from Pages`);
+      console.log('Serving from Pages:', gameDir);
     }
   }
 
@@ -116,7 +124,6 @@ export async function onRequest({ request, env, next }) {
   return next();
 }
 
-// Helper function to determine content type
 function getContentType(path) {
   const extension = path.split('.').pop().toLowerCase();
   const types = {
@@ -143,8 +150,7 @@ function getContentType(path) {
     'woff': 'font/woff',
     'woff2': 'font/woff2',
     'data': 'application/octet-stream',
-    'bin': 'application/octet-stream',
-    'txt': 'text/plain'
+    'bin': 'application/octet-stream'
   };
   
   return types[extension] || 'application/octet-stream';
