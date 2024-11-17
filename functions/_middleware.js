@@ -90,7 +90,7 @@ export async function onRequest({ request, env, next }) {
         return new Response(obj.body, {
           headers: {
             'content-type': contentType,
-            'cache-control': 'public, max-age=31536000',
+            'cache-control': 'public, max-age=2629743',
             'access-control-allow-origin': '*'
           }
         });
