@@ -65,39 +65,28 @@ export async function onRequest({ request, env, next }) {
   const url = new URL(request.url);
   const path = url.pathname;
 
-  // Check if this is a request for a game file
+  // Check if this is a request for a game file cause im a idiot. Like how did I not think of this.
   if (path.startsWith('/semag/')) {
-    // Extract the game directory name
-    const gameDir = path.split('/')[2];
+    // Extract the game directory name and the rest of the path
+    const pathParts = path.split('/');
+    const gameDir = pathParts[2];
+    // Remove 'semag' from path and join the rest
+    const r2Path = pathParts.slice(2).join('/');
 
-    // If this is a large game, try to serve from R2
     if (LARGE_GAMES.has(gameDir)) {
       try {
-        // Remove leading slash for R2 key
-        const r2Key = path.substring(1);
-
-        // Check if the bucket exists
         if (!env.GAMES) {
-          console.error('R2 bucket not found');
           return new Response('R2 bucket not configured', { status: 500 });
         }
 
-        const obj = await env.GAMES.get(r2Key);
+        // Now fetching from root of R2 bucket without 'semag'
+        const obj = await env.GAMES.get(r2Path);
 
-        if (obj === null) {
-          // Return 404 instead of falling back to Pages
-          return new Response('Game file not found in R2', { 
-            status: 404,
-            headers: {
-              'content-type': 'text/plain'
-            }
-          });
+        if (!obj) {
+          return new Response(`File not found in R2: ${r2Path}`, { status: 404 });
         }
 
-        // Get content type from object metadata or infer from extension
         const contentType = obj.httpMetadata?.contentType || getContentType(path);
-
-        // Return the file from R2 with proper headers
         return new Response(obj.body, {
           headers: {
             'content-type': contentType,
@@ -106,20 +95,14 @@ export async function onRequest({ request, env, next }) {
           }
         });
       } catch (error) {
-        console.error('R2 fetch error:', error);
-        return new Response('Error serving game file', { 
-          status: 500,
-          headers: {
-            'content-type': 'text/plain'
-          }
-        });
+        return new Response(`R2 error: ${error.message}`, { status: 500 });
       }
     }
   }
 
-  // If not a large game or not a game request, let Pages handle it
   return next();
 }
+
 
 function getContentType(path) {
   const extension = path.split('.').pop().toLowerCase();
